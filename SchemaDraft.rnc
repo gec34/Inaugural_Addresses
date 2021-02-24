@@ -1,10 +1,8 @@
 start=speech
-meta=element meta {name, den, class, kids, married, state, party, age, profession+, term, title, date}
+meta=element meta {name, den, class, state, party, age, profession+, term, title, date}
 name = element name {text}
 den=element den {"Episcopal" | "Unitarian" | "Deist" | "Presbyterian" | "Dutch Reformed" | "Unaffiliated" | "Methodist" | "Disciple of Christ" | "Baptist" | "Congregationalist" | "Quaker" | "Roman Catholic" | "Episcopal Deist"}
 class=element class {"lower" | "middle" | "upper"}
-kids=element kids {xsd:int}
-married=element married {"married" | "single" | "divorced" | "widowed" | "divorced/remarried" | "widowed/remarried"}
 state=element state {text}
 party=element party {"Unaffiliated" | "Federalist" | "Democratic-Republican" | "Democratic" | "Whig" | "Independent" | "Republican" }
 age=element age {xsd:int}
@@ -16,11 +14,14 @@ title=element title {text}
 date=element date {text}
 body=element body {p+}
 p=element p {mixed {reference*}}
-reference=element reference {mixed {god+, type, category}}
-god=element god {mixed {(style)}}
-style=attribute style {"poetic" | "name" | "Jesus" | "pronoun"| "title"}
-type=attribute type {"direct" | "indirect"}
-category=attribute category { "supplication" | "humility" | "praise" | "testimony"}
+reference=element reference {mixed {(tone | policy | values | rhetoric)*}}
 
+
+
+tone=element tone { type , text }
+type= attribute type {text}
+policy=element policy {type , text}
+values= element values {type , text}
+rhetoric = element rhetoric {type, text}
 
 
