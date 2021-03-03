@@ -1,11 +1,10 @@
 start=speech
-meta=element meta {name, den, class, state, party, age, profession+, term, title, date}
+meta=element meta {name, den, class, state, party, profession+, term, title, date}
 name = element name {text}
 den=element den {"Episcopal" | "Unitarian" | "Deist" | "Presbyterian" | "Dutch Reformed" | "Unaffiliated" | "Methodist" | "Disciple of Christ" | "Baptist" | "Congregationalist" | "Quaker" | "Roman Catholic" | "Episcopal Deist"}
 class=element class {"lower" | "middle" | "upper"}
 state=element state {text}
 party=element party {"Unaffiliated" | "Federalist" | "Democratic-Republican" | "Democratic" | "Whig" | "Independent" | "Republican" }
-age=element age {xsd:int}
 profession=element profession {"Farmer" | "Soldier" | "Lawyer" | "Diplomat" | "Teacher" | "Sheriff" | "Public Official" | "Judge" | "Professor" | "Businessman" | "Writer" | "Sailor" | "Community Organizer" | "Minister"| "Newspaper Publisher" | "Engineer" | "Actor" }
 term=element term {"1" | "2" | "3" | "4"}
 
@@ -13,15 +12,25 @@ speech=element speech {meta, body}
 title=element title {text}
 date=element date {text}
 body=element body {p+}
-p=element p {mixed {reference*}}
-reference=element reference {mixed {(tone | policy | values | rhetoric)*}}
+p=element p {mixed {(tone | policy | values)*}}
 
-
-
-tone=element tone { type , text }
-type= attribute type {text}
+tone=element tone { rhetoric?, emotion?, text}
+rhetoric= attribute rhetoric {text}
+emotion = attribute rhetoric {text}
 policy=element policy {type , text}
 values= element values {type , text}
-rhetoric = element rhetoric {type, text}
+
+
+<!--
+CHANGES TO SCHEMA 
+- tone (emotion, rhetoric)
+    emotion = optimistic, pessimisitc, inspiring, proud, provoking, triumph, mourning, stressed
+    rhetoric = appeal to god, appeal to history, appeal to future
+- value (type)
+    type = general 
+- value (category, stance)
+    category = TBD
+    stance = TBD
+-->
 
 
