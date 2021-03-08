@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="FinalSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../SchemaDraft.rnc" type="application/relax-ng-compact-syntax"?>
 <speech>
     <meta>
         <name>John Quincy Adams</name>
         <den>Unitarian</den>
         <class>upper</class>
-        <kids>5</kids>
-        <married>married</married>
         <state>Virginia</state>
         <party>Democratic-Republican</party>
-        <age>57</age>
         <profession>Lawyer</profession>
         <term>1</term>
         <title>Address by John Quincy Adams</title>
@@ -18,13 +15,12 @@
 
     <body>
         <p>
-            <reference type="indirect" category="humility">In compliance with an usage coeval with
+           In compliance with an usage coeval with
                 the existence of our Federal Constitution, and sanctioned by the example of my
                 predecessors in the career upon which I am about to enter, I appear, my
-                fellow-citizens, in your presence and in that of <god style="poetic">Heaven</god> to
+                fellow-citizens, in your presence and in that of <value type = "religion">Heaven</value> to
                 bind myself by the solemnities of religious obligation to the faithful performance
-                of the duties allotted to me in the station to which I have been called.</reference>
-        </p>
+                of the duties allotted to me in the station to which I have been called.</p>
 
         <p>In unfolding to my countrymen the principles by which I shall be governed in the
             fulfillment of those duties my first resort will be to that Constitution which I shall
@@ -35,7 +31,7 @@
             perfect union, establish justice, insure domestic tranquillity, provide for the common
             defense, promote the general welfare, and secure the blessings of liberty to the people
             of this Union in their successive generations. Since the adoption of this social compact
-            one of these generations has passed away. It is the work of our forefathers.
+            one of these generations has passed away. <tone rhetoric = "appeal to history">It is the work of our forefathers</tone>.
             Administered by some of the most eminent men who contributed to its formation, through a
             most eventful period in the annals of the world, and through all the vicissitudes of
             peace and war incidental to the condition of associated man, it has not disappointed the
@@ -46,6 +42,7 @@
             establishment, doubly bound by the examples which they have left us and by the blessings
             which we have enjoyed as the fruits of their labors to transmit the same unimpaired to
             the succeeding generation. </p>
+        
         <p>In the compass of thirty-six years since this great national covenant was instituted a
             body of laws enacted under its authority and in conformity with its provisions has
             unfolded its powers and carried into practical operation its effective energies.
@@ -54,11 +51,11 @@
             of the Union by land and sea. A coordinate department of the judiciary has expounded the
             Constitution and the laws, settling in harmonious coincidence with the legislative will
             numerous weighty questions of construction which the imperfection of human language had
-            rendered unavoidable. The year of jubilee since the first formation of our Union has
+            rendered unavoidable. <tone emotion = "optimistic">The year of jubilee since the first formation of our Union has
             just elapsed; that of the declaration of our independence is at hand. The consummation
-            of both was effected by this Constitution.</p>
+            of both was effected by this Constitution</tone>.</p>
 
-        <p>Since that period a population of four millions has multiplied to twelve. A territory
+        <p><tone emotion = "proud">Since that period a population of four millions has multiplied to twelve. A territory
             bounded by the Mississippi has been extended from sea to sea. New States have been
             admitted to the Union in numbers nearly equal to those of the first Confederation.
             Treaties of peace, amity, and commerce have been concluded with the principal dominions
@@ -70,23 +67,22 @@
             invention of our artists. Liberty and law have marched hand in hand. All the purposes of
             human association have been accomplished as effectively as under any other government on
             the globe, and at a cost little exceeding in a whole generation the expenditure of other
-            nations in a single year.</p>
+            nations in a single year</tone>.</p>
 
         <p>Such is the unexaggerated picture of our condition under a Constitution founded upon the
             republican principle of equal rights. To admit that this picture has its shades is but
             to say that it is still the condition of men upon earth. From evil—physical, moral, and
-            political—it is not our claim to be exempt. <reference type="indirect"
-                category="humility">We have suffered sometimes by the visitation of <god
-                    style="poetic">Heaven</god> through disease; often by the wrongs and injustice
-                of other nations, even to the extremities of war; and, lastly, by dissensions among
+            political—it is not our claim to be exempt. We have suffered sometimes by the visitation of <value type = "religion">Heaven</value> through disease; often by the wrongs and injustice
+                of other nations, even to the extremities of war; and, lastly, by <tone emotion = "stressed">dissensions among
                 ourselves—dissensions perhaps inseparable from the enjoyment of freedom, but which
                 have more than once appeared to threaten the dissolution of the Union, and with it
                 the overthrow of all the enjoyments of our present lot and all our earthly hopes of
-                the future.</reference> The causes of these dissensions have been various, founded
+                the future. The causes of these dissensions have been various, founded
             upon differences of speculation in the theory of republican government; upon conflicting
             views of policy in our relations with foreign nations; upon jealousies of partial and
             sectional interests, aggravated by prejudices and prepossessions which strangers to each
-            other are ever apt to entertain. </p>
+            other are ever apt to entertain</tone>. </p>
+        
         <p>It is a source of gratification and of encouragement to me to observe that the great
             result of this experiment upon the theory of human rights has at the close of that
             generation by which it was formed been crowned with success equal to the most sanguine
@@ -96,11 +92,11 @@
             generation which has gone by and forward to that which is advancing, we may at once
             indulge in grateful exultation and in cheering hope. From the experience of the past we
             derive instructive lessons for the future. Of the two great political parties which have
-            divided the opinions and feelings of our country, the candid and the just will now admit
+            divided the opinions and feelings of our country, the candid and the <tone emotion = "optimistic">just will now admit
             that both have contributed splendid talents, spotless integrity, ardent patriotism, and
             disinterested sacrifices to the formation and administration of this Government, and
-            that both have required a liberal indulgence for a portion of human infirmity and error.
-            The revolutionary wars of Europe, commencing precisely at the moment when the Government
+            that both have required a liberal indulgence for a portion of human infirmity and error</tone>.
+            <tone rhetoric = "appeal to history">The revolutionary wars of Europe, commencing precisely at the moment when the Government
             of the United States first went into operation under this Constitution, excited a
             collision of sentiments and of sympathies which kindled all the passions and imbittered
             the conflict of parties till the nation was involved in war and the Union was shaken to
@@ -109,7 +105,7 @@
             our political divisions and the most arduous part of the action of our Federal
             Government. With the catastrophe in which the wars of the French Revolution terminated,
             and our own subsequent peace with Great Britain, this baneful weed of party strife was
-            uprooted. From that time no difference of principle, connected either with the theory of
+            uprooted</tone>. From that time no difference of principle, connected either with the theory of
             government or with our intercourse with foreign nations, has existed or been called
             forth in force sufficient to sustain a continued combination of parties or to give more
             than wholesome animation to public sentiment or legislative debate. Our political creed
@@ -126,9 +122,9 @@
             should be kept in strict subordination to the civil power; that the freedom of the press
             and of religious opinion should be inviolate; that the policy of our country is peace
             and the ark of our salvation union are articles of faith upon which we are all now
-            agreed. If there have been those who doubted whether a confederated representative
+            agreed. <tone emotion = "confident">If there have been those who doubted whether a confederated representative
             democracy were a government competent to the wise and orderly management of the common
-            concerns of a mighty nation, those doubts have been dispelled; if there have been
+            concerns of a mighty nation, those doubts have been dispelled</tone>; if there have been
             projects of partial confederacies to be erected upon the ruins of the Union, they have
             been scattered to the winds; if there have been dangerous attachments to one foreign
             nation and antipathies against another, they have been extinguished. Ten years of peace,
@@ -145,10 +141,10 @@
             views of administrative policy are in their nature transitory. Those which are founded
             on geographical divisions, adverse interests of soil, climate, and modes of domestic
             life are more permanent, and therefore, perhaps, more dangerous. It is this which gives
-            inestimable value to the character of our Government, at once federal and national. It
+            inestimable value to the character of our Government, at once federal and national. <policy freedom = "states rights">It
             holds out to us a perpetual admonition to preserve alike and with equal anxiety the
             rights of each individual State in its own government and the rights of the whole nation
-            in that of the Union. Whatsoever is of domestic concernment, unconnected with the other
+            in that of the Union</policy>. Whatsoever is of domestic concernment, unconnected with the other
             members of the Union or with foreign lands, belongs exclusively to the administration of
             the State governments. Whatsoever directly involves the rights and interests of the
             federative fraternity or of foreign powers is of the resort of this General Government.
@@ -161,15 +157,15 @@
             councils annually assembled from all quarters of the Union at this place. Here the
             distinguished men from every section of our country, while meeting to deliberate upon
             the great interests of those by whom they are deputed, learn to estimate the talents and
-            do justice to the virtues of each other. The harmony of the nation is promoted and the
+            do justice to the virtues of each other. <value type = "respect">The harmony of the nation is promoted and the
             whole Union is knit together by the sentiments of mutual respect, the habits of social
             intercourse, and the ties of personal friendship formed between the representatives of
-            its several parts in the performance of their service at this metropolis.</p>
+            its several parts in the performance of their service at this metropolis</value>.</p>
 
         <p>Passing from this general review of the purposes and injunctions of the Federal
             Constitution and their results as indicating the first traces of the path of duty in the
             discharge of my public trust, I turn to the Administration of my immediate predecessor
-            as the second. It has passed away in a period of profound peace, how much to the
+            as the second. <tone emotion = "praising">It has passed away in a period of profound peace, how much to the
             satisfaction of our country and to the honor of our country’s name is known to you all.
             The great features of its policy, in general concurrence with the will of the
             Legislature, have been to cherish peace while preparing for defensive war; to yield
@@ -180,7 +176,7 @@
             Army; to provide and sustain a school of military science; to extend equal protection to
             all the great interests of the nation; to promote the civilization of the Indian tribes,
             and to proceed in the great system of internal improvements within the limits of the
-            constitutional power of the Union. Under the pledge of these promises, made by that
+            constitutional power of the Union</tone>. Under the pledge of these promises, made by that
             eminent citizen at the time of his first induction to this office, in his career of
             eight years the internal taxes have been repealed; sixty millions of the public debt
             have been discharged; provision has been made for the comfort and relief of the aged and
@@ -203,8 +199,8 @@
             embrace the whole sphere of my obligations. To the topic of internal improvement,
             emphatically urged by him at his inauguration, I recur with peculiar satisfaction. It is
             that from which I am convinced that the unborn millions of our posterity who are in
-            future ages to people this continent will derive their most fervent gratitude to the
-            founders of the Union; that in which the beneficent action of its Government will be
+            future ages to people this continent will derive their most <tone rhetoric = "appeal to history">fervent gratitude to the
+            founders of the Union</tone>; that in which the beneficent action of its Government will be
             most deeply felt and acknowledged. The magnificence and splendor of their public works
             are among the imperishable glories of the ancient republics. The roads and aqueducts of
             Rome have been the admiration of all after ages, and have survived thousands of years
@@ -224,24 +220,23 @@
             to the common satisfaction of all, and every speculative scruple will be solved by a
             practical public blessing.</p>
 
-        <p>Fellow-citizens, you are acquainted with the peculiar circumstances of the recent
+        <p><value type = "unity">Fellow-citizens</value>, you are acquainted with the peculiar circumstances of the recent
             election, which have resulted in affording me the opportunity of addressing you at this
             time. You have heard the exposition of the principles which will direct me in the
             fulfillment of the high and solemn trust imposed upon me in this station. Less possessed
-            of your confidence in advance than any of my predecessors, I am deeply conscious of the
-            prospect that I shall stand more and oftener in need of your indulgence. Intentions
+            of your confidence in advance than any of my predecessors, <tone emotion = "humble">I am deeply conscious of the
+            prospect that I shall stand more and oftener in need of your indulgence</tone>. Intentions
             upright and pure, a heart devoted to the welfare of our country, and the unceasing
             application of all the faculties allotted to me to her service are all the pledges that
             I can give for the faithful performance of the arduous duties I am to undertake.
-                <reference type="direct" category="supplication">To the guidance of the legislative
+               To the guidance of the legislative
                 councils, to the assistance of the executive and subordinate departments, to the
                 friendly cooperation of the respective State governments, to the candid and liberal
                 support of the people so far as it may be deserved by honest industry and zeal, I
                 shall look for whatever success may attend my public service; and knowing that
-                “except <god style="title">the Lord</god> keep the city the watchman waketh but in
-                vain,” with fervent supplications for <god style="pronoun">His</god> favor, to <god
-                    style="pronoun">His</god> overruling providence I commit with humble but
+                “except <value type = "religion">the Lord</value> keep the city the watchman waketh but in
+                vain,” with fervent supplications for <value type = "religion>His</value> favor, to <value type = "religion">His</value> overruling providence I commit with humble but
                 fearless confidence my own fate and the future destinies of my
-            country.</reference></p>
+            country.</p>
     </body>
 </speech>

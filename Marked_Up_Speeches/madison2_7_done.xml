@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../SchemaDraft.rnc" type="application/relax-ng-compact-syntax"?>
 <speech>
     <meta>
         <name>James Madison</name>
@@ -25,7 +26,7 @@
                 compelled to shrink if I had less reliance on the support of an enlightened and
                 generous people, and felt less deeply a conviction that the war with a powerful
                 nation, which forms so prominent a feature in our situation, is stamped with that
-                justice which invites the <value religion="reference">smiles of Heaven</value> on the means of
+                justice which invites the <value type="religion">smiles of Heaven</value> on the means of
                 conducting it to a successful termination. </p>
 
         <p>May we not cherish this sentiment without presumption when we reflect on the characters by
@@ -35,14 +36,14 @@
             them,in reality though not in name; until arguments and postulations had been
             exhausted; until a positive declaration had been received that the wrongs provoking it
             would not be discontinued; nor until this last appeal could no longer be delayed without
-            <tone political = "stress">breaking down the spirit of the nation, destroying all confidence in itself and in its
+            <tone emotion = "stressed">breaking down the spirit of the nation, destroying all confidence in itself and in its
             political institutions, and either perpetuating a state of disgraceful suffering or
             regaining by more costly sacrifices and more severe struggles our lost rank and respect
             among independent powers</tone>.</p>
 
         <p>On the issue of the war are staked our national sovereignty on the high seas and
             the security of an important class of citizens, whose occupations give the proper value
-            to those of every other class. <value political = "patriotism">Not to contend for such a stake is to surrender our
+            to those of every other class. <value type = "nationalism">Not to contend for such a stake is to surrender our
             equality with other powers on the element common to all and to violate the sacred title
             which every member of the society has to its protection. I need not call into view
             the unlawfulness of the practice by which our mariners are forced at the will of
@@ -63,7 +64,7 @@
         <p>They have retained as prisoners of war citizens of the United States not liable to be
             so considered under the usages of war.</p>
 
-        <p><tone political = "stress">They have refused to consider as prisoners of war, and threatened to punish as
+        <p><tone emotion = "stressed">They have refused to consider as prisoners of war, and threatened to punish as
             traitors and deserters, persons emigrating without restraint to the United States,
             incorporated by naturalization into our political family, and fighting under the
             authority of their adopted country in open and honorable war for the maintenance of its
@@ -74,9 +75,9 @@
         <p>They have not, it is true, taken into their own hands the hatchet and the knife,
             devoted to indiscriminate massacre, but they have let loose the savages armed with these
             cruel instruments; have allured them into their service, and carried them to battle by
-            their sides, eager to glut their <tone emotion = "angry, revengeful,gory">savage thirst with the blood of the vanquished and to
+            their sides, eager to glut their <tone emotion = "angry">savage thirst with the blood of the vanquished and to
             finish the work of torture and death on maimed and defenseless captives</tone>. And, what was
-            never before seen, <value political = "nationalism">British commanders have extorted victory over the unconquerable valor
+            never before seen, <value type = "nationalism">British commanders have extorted victory over the unconquerable valor
             of our troops by presenting to the sympathy of their chief captives awaiting massacre
             from their savage associates. And now we find them, in further contempt of the modes
             of honorable warfare, supplying the place of a conquering force by attempts to
@@ -95,8 +96,8 @@
             reliance not placed on the military resources of the nation.</p>
 
         <p>These resources are amply sufficient to bring the war to an honorable issue. Our nation is
-            in number more than half that of the British Isles. <tone emotion = "unity">It is composed of a brave, a free, a
-            virtuous, and an intelligent people</tone>. Our country abounds in the necessaries, the arts,
+            in number more than half that of the British Isles. <value type = "unity">It is composed of a brave, a free, a
+            virtuous, and an intelligent people</value>. Our country abounds in the necessaries, the arts,
             and the comforts of life. A general prosperity is visible in the public countenance. The
             means employed by the British cabinet to undermine it have recoiled on themselves; have
             given to our national faculties a more rapid development, and, draining or diverting the
@@ -109,7 +110,7 @@
             they will bear each his share of the common burden. To render the war short and its
             success sure, animated and systematic exertions alone are necessary, and the success of
             our arms now may long preserve our country from the necessity of another resort to them.
-            <tone political = "confident">Already have the gallant exploits of our naval heroes proved to the world our inherent
+            <tone emotion = "confident">Already have the gallant exploits of our naval heroes proved to the world our inherent
             capacity to maintain our rights on one element.</tone>If the reputation of our arms has been
             thrown under clouds on the other, presaging flashes of heroic enterprise assure us that
             nothing is wanting to correspondent triumphs there also but the discipline and habits
