@@ -12,25 +12,25 @@ speech=element speech {meta, body}
 title=element title {text}
 date=element date {text}
 body=element body {p+}
-p=element p {mixed {(tone | policy | values)*}}
+p=element p {mixed {(tone | policy | value)*}}
 
 tone=element tone { rhetoric?, emotion?, text}
 rhetoric= attribute rhetoric {text}
-emotion = attribute rhetoric {text}
-policy=element policy {type , text}
-values= element values {type , text}
+emotion = attribute emotion {text}
+
+policy=element policy {economy? | military? | civil_rights? | foreign? | welfare? | education? | government? | health? | text}
+economy = attribute economy {text}
+military = attribute military {text}
+civil_rights = attribute civil_rights {text}
+foreign = attribute foreign {text}
+welfare = attribute welfare {text}
+education = attribute education {text}
+government = attribute government {text}
+health = attribute health {text}
+
+value= element value {type , text}
+type = attribute type{"unity"? | "equality"? | "liberty"? | "religion"? | "democracy"? |"humility"?}
 
 
-<!--
-CHANGES TO SCHEMA 
-- tone (emotion, rhetoric)
-    emotion = optimistic, pessimisitc, inspiring, proud, provoking, triumph, mourning, stressed
-    rhetoric = appeal to god, appeal to history, appeal to future
-- value (type)
-    type = general 
-- value (category, stance)
-    category = TBD
-    stance = TBD
--->
 
 
