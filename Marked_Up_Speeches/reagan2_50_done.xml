@@ -4,7 +4,7 @@
        <meta>
               <name>Ronald Reagan</name>
               <den>Presbyterian</den>
-              <married>divorced/remarried</married>
+              <class>lower</class>
               <state>California</state>
               <party>Republican</party>
               <profession>Actor</profession>
@@ -32,7 +32,7 @@
                             wilderness. There were 4 million Americans in a union of 13
                             States</tone>. Today we are 60 times as many in a union of 50 States.
                             <value type="science">We have lighted the world with our
-                            inventions</value>, <policy category="foreign policy" stance="intervention">gone to the aid of
+                            inventions</value>, <policy foreign="intervention">gone to the aid of
                             mankind wherever in the world there was a cry for help</policy>, <value
                             type="science">journeyed to the Moon and safely returned</value>. So
                      much has changed. <value type="unity">And yet we stand together as we did two
@@ -50,7 +50,7 @@
               <p>That system has never failed us, but, for a time, we failed the system. We asked
                      things of government that government was not equipped to give. We yielded
                      authority to the National Government that properly belonged to States or to
-                     local governments or to the people themselves. <policy category="industry">We
+                     local governments or to the people themselves. <policy economy="industry">We
                             allowed taxes and inflation to rob us of our earnings and savings and
                             watched the great industrial machine that had made us the most
                             productive people on Earth slow down and the number of unemployed
@@ -60,7 +60,7 @@
                      society.</p>
               <p>We believed then and now there are no limits to growth and human progress when men
                      and women are free to follow their dreams.</p>
-              <p>And we were right to believe that. <policy category="economy">Tax rates have been
+              <p>And we were right to believe that. <policy economy="tax">Tax rates have been
                             reduced, inflation cut dramatically, and more people are employed than
                             ever before in our history</policy>.</p>
               <p>We are creating a nation once again vibrant, robust, and alive. <tone
@@ -72,17 +72,16 @@
               <p><value type="progress">These will be years when Americans have restored their
                             confidence and tradition of progress; when our values of faith, family,
                             work, and neighborhood were restated for a modern age</value>; <policy
-                            category="economy">when our economy was finally freed from government’s
-                            grip</policy>; <policy category="military">when we made sincere efforts
-                            at meaningful arms reduction, rebuilding our defenses</policy>, <policy
-                            category="economy">our economy</policy>, and <value type="science"
-                            >developing new technologies</value>, and <policy
-                            category="foreign policy" stance="intervention">helped preserve peace in a troubled
-                            world</policy>; <value type="democracy">when Americans courageously
-                            supported the struggle for liberty, self-government, and free enterprise
-                            throughout the world, and turned the tide of history away from
-                            totalitarian darkness and into the warm sunlight of human
-                            freedom</value>.</p>
+                            economy="general">when our economy was finally freed from government’s
+                            grip</policy>; <policy military="war">when we made sincere efforts at
+                            meaningful arms reduction, rebuilding our defenses</policy>, <policy
+                            economy="general">our economy</policy>, and <value type="science"
+                            >developing new technologies</value>, and <policy foreign="intervention"
+                            >helped preserve peace in a troubled world</policy>; <value
+                            type="democracy">when Americans courageously supported the struggle for
+                            liberty, self-government, and free enterprise throughout the world, and
+                            turned the tide of history away from totalitarian darkness and into the
+                            warm sunlight of human freedom</value>.</p>
               <p><tone emotion="optimistic">My fellow citizens, our Nation is poised for
                             greatness</tone>. We must do what we know is right and do it with all
                      our might. Let history say of us, “These were golden years—when the American
@@ -113,26 +112,26 @@
                             <value type="religion">One people under God</value> determined that
                             <tone rhetoric="appeal to past">our future shall be worthy of our
                             past</tone>. As we do, we must not repeat the well-intentioned errors of
-                     our past. <policy category="economy">We must never again abuse the trust of
-                            working men and women, by sending their earnings on a futile chase after
-                            the spiraling demands of a bloated Federal Establishment</policy>. You
+                     our past. <policy economy="tax">We must never again abuse the trust of working
+                            men and women, by sending their earnings on a futile chase after the
+                            spiraling demands of a bloated Federal Establishment</policy>. You
                      elected us in 1980 to end this prescription for disaster, and I don’t believe
                      you reelected us in 1984 to reverse course.</p>
-              <p><policy category="economy">At the heart of our efforts is one idea vindicated by 25
+              <p><policy economy="general">At the heart of our efforts is one idea vindicated by 25
                             straight months of economic growth: Freedom and incentives unleash the
                             drive and entrepreneurial genius that are the core of human progress. We
                             have begun to increase the rewards for work, savings, and investment;
                             reduce the increase in the cost and size of government and its
                             interference in people’s lives</policy>.</p>
-              <p><policy category="economy">We must simplify our tax system, make it more fair, and
-                            bring the rates down for all who work and earn</policy>. <value
+              <p><policy economy="tax">We must simplify our tax system, make it more fair, and bring
+                            the rates down for all who work and earn</policy>. <value
                             type="progress">We must think anew</value> and <value type="action">move
                             with a new boldness</value>, <value type="equality">so every American
                             who seeks work can find work; so the least among us shall have an equal
-                            chance to achieve the greatest things</value>—<value type="health">to be
-                            heroes who heal our sick, feed the hungry</value>, <value
-                            type="military">protect peace among nations</value>, and leave this
-                     world a better place.</p>
+                            chance to achieve the greatest things</value>—<policy
+                            health="public health">to be heroes who heal our sick, feed the
+                            hungry</policy>, <policy foreign="peace">protect peace among
+                            nations</policy>, and leave this world a better place.</p>
               <p><value type="equality">The time has come for a new American emancipation—a great
                             national drive to tear down economic barriers and liberate the spirit of
                             enterprise in the most distressed areas of our country</value>. <tone
@@ -143,7 +142,7 @@
                             >America that will lead the technological revolution</value>, and also
                      open its mind and heart and soul to the treasures of literature, music, and
                      poetry, and the values of faith, courage, and love.</p>
-              <p><policy type="economy">A dynamic economy, with more citizens working and paying
+              <p><policy economy="general">A dynamic economy, with more citizens working and paying
                             taxes, will be our strongest tool to bring down budget deficits. But an
                             almost unbroken 50 years of deficit spending has finally brought us to a
                             time of reckoning. We have come to a turning point, a moment for hard
@@ -154,7 +153,7 @@
                             debt</policy>.</p>
               <p>I will shortly submit a budget to the Congress aimed at freezing government program
                      spending for the next year. Beyond that, we must take further steps to
-                     permanently <policy category="economy">control Government’s power to tax and
+                     permanently <policy economy="tax">control Government’s power to tax and
                             spend</policy>. <tone rhetoric="appeal to future">We must act now to
                             protect future generations from Government’s desire to spend its
                             citizens’ money and tax them into servitude when the bills come
@@ -167,9 +166,8 @@
                      disadvantaged. And here a growing economy and support from family and community
                      offer our best chance for a society where compassion is a way of life, <value
                             type="equality">where the old and infirm are cared for</value>, the
-                     young and, yes, <policy category="abortion" stance="life">the unborn
-                            protected</policy>, and <value type="self-sufficienty">the unfortunate
-                            looked after and made self-sufficient</value>.</p>
+                     young and, yes, <policy health="abortion">the unborn protected</policy>, and
+                     the unfortunate looked after and made self-sufficient.</p>
               <p>And there is another area where the Federal Government can play a part. As an older
                      American, I remember a time when people of different race, creed, or ethnic
                      origin in our land found hatred and prejudice installed in social custom and,
@@ -187,43 +185,40 @@
                      on Earth.</p>
               <p>I have spoken of our domestic goals and the limitations which we should put on our
                      National Government. Now let me turn to a task which is the primary
-                     responsibility of National Government—<value type="protection">the safety and
+                     responsibility of National Government—<value type="security">the safety and
                             security of our people</value>.</p>
               <p>Today, <value type="religion">we utter no prayer more fervently</value> than the
-                     ancient prayer <value type="peace">for peace on Earth. Yet history has shown
-                            that peace will not come, nor will our freedom be preserved, by good
-                            will alone</value>. <policy category="foreign policy">There are those in
-                            the world who scorn our vision of human dignity and freedom. One nation,
-                            the Soviet Union, has conducted the greatest military buildup in the
-                            history of man, building arsenals of awesome offensive
-                     weapons</policy>.</p>
+                     ancient prayer for peace on Earth. Yet history has shown that peace will not
+                     come, nor will our freedom be preserved, by good will alone. <policy
+                            foreign="intervention">There are those in the world who scorn our vision
+                            of human dignity and freedom. One nation, the Soviet Union, has
+                            conducted the greatest military buildup in the history of man, building
+                            arsenals of awesome offensive weapons</policy>.</p>
               <p>We have made progress in restoring our defense capability. But much remains to be
                      done. There must be no wavering by us, nor any doubts by others, <value
                             type="democracy">that America will meet her responsibilities to remain
-                            free</value>, <value type="security">secure</value>, and <value
-                            type="peace">at peace</value>.</p>
+                            free</value>, <value type="security">secure</value>, and at peace.</p>
               <p>There is only one way safely and legitimately to reduce the cost of national
-                     security, and that is to reduce the need for it.<policy
-                            category="foreign policy" stance="intervention"> And this we are trying to do in negotiations
-                            with the Soviet Union. We are not just discussing limits on a further
-                            increase of nuclear weapons. We seek, instead, to reduce their number.
-                            We seek the total elimination one day of nuclear weapons from the face
-                            of the Earth</policy>.</p>
+                     security, and that is to reduce the need for it.<policy foreign="intervention">
+                            And this we are trying to do in negotiations with the Soviet Union. We
+                            are not just discussing limits on a further increase of nuclear weapons.
+                            We seek, instead, to reduce their number. We seek the total elimination
+                            one day of nuclear weapons from the face of the Earth</policy>.</p>
               <p>Now, for decades, we and the Soviets have lived under the threat of mutual assured
                      destruction; if either resorted to the use of nuclear weapons, the other could
                      retaliate and destroy the one who had started it. Is there either logic or
                      morality in believing that if one side threatens to kill tens of millions of
                      our people, our only recourse is to threaten killing tens of millions of
                      theirs?</p>
-              <p><policy category="war">I have approved a research program to find, if we can, a
+              <p><policy military="war">I have approved a research program to find, if we can, a
                             security shield that would destroy nuclear missiles before they reach
                             their target. It wouldn’t kill people, it would destroy weapons. It
                             wouldn’t militarize space, it would help demilitarize the arsenals of
                             Earth. It would render nuclear weapons obsolete. We will meet with the
                             Soviets, hoping that we can agree on a way to rid the world of the
                             threat of nuclear destruction</policy>.</p>
-              <p><value type="peace">We strive for peace and security, heartened by the changes all
-                            around us</value>. Since the turn of the century, the number of
+              <p><value type="security">We strive for peace and security, heartened by the changes
+                            all around us</value>. Since the turn of the century, the number of
                      democracies in the world has grown fourfold. Human freedom is on the march, and
                      nowhere more so than our own hemisphere. <value type="democracy">Freedom is one
                             of the deepest and noblest aspirations of the human spirit</value>.
@@ -232,10 +227,10 @@
               <p><value type="democracy">America must remain freedom’s staunchest friend, for
                             freedom is our best ally</value>.</p>
               <p>And it is the world’s only hope, to <value type="equality">conquer poverty</value>
-                     and <value type="peace">preserve peace</value>. <value type="equality">Every
-                            blow we inflict against poverty will be a blow against its dark allies
-                            of oppression and war</value>. <value type="democracy">Every victory for
-                            human freedom will be a victory for world peace</value>.</p>
+                     and preserve peace. <value type="equality">Every blow we inflict against
+                            poverty will be a blow against its dark allies of oppression and
+                            war</value>. <value type="democracy">Every victory for human freedom
+                            will be a victory for world peace</value>.</p>
               <p>So we go forward today, a nation still mighty in its youth and powerful in its
                      purpose. With our alliances strengthened, with our economy leading the world to
                      a new age of economic expansion, <tone emotion="optimistic">we look forward to
@@ -254,14 +249,16 @@
                             preserve the Union; the men of the Alamo call out encouragement to each
                             other; a settler pushes west and sings a song, and the song echoes out
                             forever and fills the unknowing air</tone>.</p>
-              <p><tone emotion="pride">It is the American sound. It is hopeful, big-hearted, idealistic, daring, decent,
-                     and fair. That’s our heritage; that is our song</tone>. We sing it still. For all our
-                     problems, our differences, we are together as of old, <value type="religion">as we raise our voices to
-                     the God who is the Author of this most tender music. And may He continue to
-                     hold us close as we fill the world with our sound—sound in unity, affection,
-                     and love—one people under God, dedicated to the dream of freedom that He has
-                     placed in the human heart, called upon now to pass that dream on to a waiting
-                     and hopeful world</value>.</p>
-              <p> <value type="religion">Godbless you and may God bless America</value>. </p>
+              <p><tone emotion="pride">It is the American sound. It is hopeful, big-hearted,
+                            idealistic, daring, decent, and fair. That’s our heritage; that is our
+                            song</tone>. We sing it still. For all our problems, our differences, we
+                     are together as of old, <value type="religion">as we raise our voices to the
+                            God who is the Author of this most tender music. And may He continue to
+                            hold us close as we fill the world with our sound—sound in unity,
+                            affection, and love—one people under God, dedicated to the dream of
+                            freedom that He has placed in the human heart, called upon now to pass
+                            that dream on to a waiting and hopeful world</value>.</p>
+              <p>
+                     <value type="religion">Godbless you and may God bless America</value>. </p>
        </body>
 </speech>

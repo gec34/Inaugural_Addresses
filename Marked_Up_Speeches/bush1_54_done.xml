@@ -27,8 +27,8 @@
         <p>We have a place, all of us, in a long story; a story we continue, but whose end we will
             not see. It is the story of a new world that became a friend and liberator of the old,
             the story of a <value type="democracy">slave-holding society that became a servant of
-                freedom</value>, <value type="military">the story of a power that went into the
-                world to protect but not possess, to defend but not to conquer</value>. <tone
+                freedom</value>, the story of a power that went into the
+                world to protect but not possess, to defend but not to conquer. <tone
                 emotion="pride">It is the American story; a story of flawed and fallible people,
                 united across the generations by grand and enduring ideals</tone>.</p>
         <p>The grandest of these ideals is an unfolding American promise: <value type="equality"
@@ -37,15 +37,15 @@
         <p>Americans are called to enact this promise in our lives and in our laws. And though our
             Nation has sometimes halted, and sometimes delayed, we must follow no other course.</p>
         <p>Through much of the last century, <value type="democracy">America’s faith in freedom and
-                democracy was a rock in a raging sea</value>. <policy category="foreign policy">Now
+                democracy was a rock in a raging sea</value>. <policy foreign="intervention">Now
                 it is a seed upon the wind, taking root in many nations</policy>.</p>
         <p><value type="democracy">Our democratic faith is more than the creed of our country, it is
                 the inborn hope of our humanity; an ideal we carry but do not own, a trust we bear
                 and pass along</value>. <value type="progress">And even after nearly 225 years, we
                 have a long way yet to travel</value>.</p>
         <p>While many of our citizens prosper, others doubt the promise—even the justice—of our own
-            country. <value type="education">The ambitions of some Americans are limited by failing
-                schools</value>, <value type="education">and hidden prejudice, and the circumstances
+            country. <policy education="schools">The ambitions of some Americans are limited by failing
+                schools</policy>, <value type="equality">and hidden prejudice, and the circumstances
                 of their birth</value>. And sometimes our differences run so deep, it seems we share
             a continent, but not a country.</p>
         <p>We do not accept this, and we will not allow it. <value type="unity">Our unity, our
@@ -60,10 +60,10 @@
                 onward</value>.</p>
         <p><value type="unity">America has never been united by blood or birth or soil. We are bound
                 by ideals that move us beyond our backgrounds, lift us above our interests, and
-                teach us what it means to be citizens</value>. <value type="education">Every child
-                must be taught these principles</value>. Every citizen must uphold them. <value
-                type="immigration">And every immigrant, by embracing these ideals, makes our country
-                more, not less, American</value>.</p>
+                teach us what it means to be citizens</value>. Every child
+                must be taught these principles. Every citizen must uphold them. <policy
+                immigration="pro immigration">And every immigrant, by embracing these ideals, makes our country
+                more, not less, American</policy>.</p>
         <p><value type="civility">Today we affirm a new commitment to live out our Nation’s promise
                 through civility, courage, compassion, and character</value>.</p>
         <p><value type="civility">America, at its best, matches a commitment to principle with a
@@ -72,35 +72,34 @@
                 fair dealing and forgiveness</value>.</p>
         <p>Some seem to believe that our politics can afford to be petty because, in a time of
             peace, the stakes of our debates appear small. But the stakes, for America, are never
-            small. <policy category="foreign policy" stance="intervention">If our country does not lead the cause of
-                freedom, it will not be led</policy>. <value type="education">If we do not turn the
+            small. <policy foreign="intervention">If our country does not lead the cause of
+                freedom, it will not be led</policy>. <tone rhetoric="appeal to future">If we do not turn the
                 hearts of children toward knowledge and character, we will lose their gifts and
-                undermine their idealism</value>. <policy ctegory="economy">If we permit our economy
+                undermine their idealism</tone>. <policy economy="general">If we permit our economy
                 to drift and decline, the vulnerable will suffer most</policy>.</p>
         <p>We must live up to the calling we share. <value type="civility">Civility is not a tactic
                 or a sentiment. It is the determined choice of trust over cynicism, of community
                 over chaos. And this commitment, if we keep it, is a way to shared
                 accomplishment</value>.</p>
-        <p><value type="strength">America, at its best, is also courageous</value>.</p>
+        <p>America, at its best, is also courageous.</p>
         <p><tone rhetoric="appeal to past">Our national courage has been clear in times of
                 depression and war, when defeating common dangers defined our common good. Now we
                 must choose if the example of our fathers and mothers will inspire us or condemn
                 us</tone>. <tone rhetoric="appeal to future">We must show courage in a time of
                 blessing by confronting problems instead of passing them onto future
                 generations</tone>.</p>
-        <p><policy category="education">Together we will reclaim America’s schools</policy>, <value
-                type="education">before ignorance and apathy claim more young lives</value>. <policy
-                category="health">We will reform Social Security and Medicare</policy>, <tone
+        <p><policy education="schools">Together we will reclaim America’s schools, before ignorance and apathy claim more young lives</policy>. <policy
+                health="health care">We will reform Social Security and Medicare</policy>, <tone
                 rhetoric="appeal to future">sparing our children from struggles we have the power to
-                prevent</tone>. <policy category="economy">And we will reduce taxes, to recover the
+                prevent</tone>. <policy economy="tax">And we will reduce taxes, to recover the
                 momentum of our economy and reward the efforts and enterprise of working
                 Americans</policy>.</p>
-        <p><value type="strength">We will build our defenses beyond challenge, lest weakness invite
-                challenge</value>.</p>
-        <p><policy type="war">We will confront weapons of mass destruction, so that a new century is
+        <p>We will build our defenses beyond challenge, lest weakness invite
+                challenge.</p>
+        <p><policy military="war">We will confront weapons of mass destruction, so that a new century is
                 spared new horrors</policy>.</p>
         <p><value type="democracy">The enemies of liberty and our country should make no
-                mistake</value>, <policy type="foreign policy" stance="intervention">America remains engaged in the world,
+                mistake</value>, <policy foreign="intervention">America remains engaged in the world,
                 by history and by choice, shaping a balance of power that favors freedom. We will
                 defend our allies and our interests. We will show purpose without arrogance. We will
                 meet aggression and bad faith with resolve and strength. And to all nations, we will
@@ -111,14 +110,14 @@
                 rhetoric="appeal to future">And whatever our views of its cause, we can agree that
                 children at risk are not at fault</tone>. <value type="religion">Abandonment and
                 abuse are not acts of God; they are failures of love.</value></p>
-        <p><policy category="prison">And the proliferation of prisons, however necessary</policy>,
+        <p><policy prison="order">And the proliferation of prisons, however necessary</policy>,
             is no substitute for hope and order in our souls.</p>
         <p>Where there is suffering, there is duty. <value type="equality">Americans in need are not
                 strangers, they are citizens; not problems, but priorities</value>. And all of us
             are diminished when any are hopeless.</p>
-        <p>Government has great responsibilities, for <value type="protection">public safety</value>
-            and <value type="health">public health</value>, <policy type="civil rights">for civil
-                rights</policy> and <policy type="education">common schools</policy>. Yet compassion
+        <p>Government has great responsibilities, for <value type="security">public safety</value>
+            and <policy health="public health">public health</policy>, <policy civil_rights="civil rights">for civil
+                rights</policy> and <policy education="schools">common schools</policy>. Yet compassion
             is the work of a nation, not just a government. And some needs and hurts are so deep,
             they will only <value type="religion">respond to a mentor’s touch or a pastor’s prayer.
                 Church and charity, synagogue and mosque lend our communities their humanity, and

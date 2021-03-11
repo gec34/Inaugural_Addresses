@@ -54,7 +54,7 @@
                 sit and wait, hoping the mists will lift and reveal the right path. But this is a
                 time when the future seems a door you can walk right through into a room called
                 tomorrow</value>.</p>
-        <p><policy category="foreign policy">Great nations of the world are moving toward democracy
+        <p><policy foreign="intervention">Great nations of the world are moving toward democracy
                 through the door to freedom. Men and women of the world move toward free markets
                 through the door to prosperity. The people of the world agitate for free expression
                 and free thought</policy> through <value type="democracy">the door to the moral and
@@ -68,8 +68,8 @@
             about which form of government is better. We don’t have to wrest justice from the kings.
             We only have to summon it from within ourselves. <value type="action">We must act on
                 what we know</value>. I take as my guide the hope of a saint: <value type="unity">In
-                crucial things, unity</value>; <value type="diversity">in important things,
-                diversity</value>; in all things, generosity.</p>
+                crucial things, unity</value>; in important things, diversity; in all things,
+            generosity.</p>
         <p><tone emotion="pride">America today is a proud, free nation, decent and civil, a place we
                 cannot help but love. We know in our hearts, not loudly and proudly, but as a simple
                 fact, that this country has meaning beyond what we see, and that our strength is a
@@ -92,18 +92,17 @@
         <p>America is never wholly herself unless she is engaged in high moral principle. We as a
             people have such a purpose today. It is to make kinder the face of the Nation and
             gentler the face of the world. My friends, we have work to do. <policy
-                category="homelessness">There are the homeless, lost and roaming</policy>. <value
+                homelessness="general">There are the homeless, lost and roaming</policy>. <value
                 type="equality">There are the children who have nothing, no love, no
-                normalcy</value>. <policy category="health">There are those who cannot free
+                normalcy</value>. <policy health="addiction">There are those who cannot free
                 themselves of enslavement to whatever addiction—drugs</policy>, <tone
                 emotion="provoking">welfare, the demoralization that rules the slum</tone>. <policy
-                category="crime">There is crime to be conquered, the rough crime of the
-                streets</policy>. <value type="protection">There are young women to be helped who
-                are about to become mothers of children they can’t care for and might not love. They
-                need our care, our guidance</value>, <value type="education">and our
-                education</value>, <policy category="abortion" stance="life">though we bless them
-                for choosing life</policy>.</p>
-        <p>The old solution, <policy category="economy">the old way, was to think that public money
+                crime="safety">There is crime to be conquered, the rough crime of the
+                streets</policy>. <value type="security">There are young women to be helped who are
+                about to become mothers of children they can’t care for and might not love. They
+                need our care, our guidance</value>, and our education, <policy health="abortion"
+                >though we bless them for choosing life</policy>.</p>
+        <p>The old solution, <policy economy="general">the old way, was to think that public money
                 alone could end these problems. But we have learned that is not so. And in any case,
                 our funds are low. We have a deficit to bring down</policy>. We have more will than
             wallet; but will is what we need. We will make the hard choices, looking at what we have
@@ -128,10 +127,10 @@
         <p>We need a new engagement, too, between the Executive and the Congress. The challenges
             before us will be thrashed out with the House and the Senate. We must bring the Federal
             budget into balance. <value type="unity">And we must ensure that America stands before
-                the world united</value>, <value type="strength">strong</value>, <policy type="war"
-                >at peace</policy>, <policy type="economy">and fiscally sound</policy>. But, of
-            course, things may be difficult. <value type="unity">We need compromise; we have had
-                dissension. We need harmony; we have had a chorus of discordant voices</value>.</p>
+                the world united</value>, strong, <policy military="war">at peace</policy>, <policy
+                economy="general">and fiscally sound</policy>. But, of course, things may be
+            difficult. <value type="unity">We need compromise; we have had dissension. We need
+                harmony; we have had a chorus of discordant voices</value>.</p>
         <p>For Congress, too, has changed in our time. There has grown a certain divisiveness. We
             have seen the hard looks and heard the statements in which not each other’s ideas are
             challenged, but each other’s motives. <value type="unity">And our great parties have too
@@ -152,19 +151,19 @@
             produce. <value type="action">The American people await action</value>. They didn’t send
             us here to bicker. They ask us to rise above the merely partisan. <value type="unity"
                 >“In crucial things, unity”—and this, my friends, is crucial</value>.</p>
-        <p><policy category="foreign policy" stance="intervention">To the world, too, we offer new engagement and a
-                renewed vow</policy>: <value type="stregnth">We will stay strong to protect the
-                peace. The “offered hand” is a reluctant fist; but once made, strong, and can be
-                used with great effect</value>. <policy category="foreign policy" stance="intervention">There are today
-                Americans who are held against their will in foreign lands, and Americans who are
-                unaccounted for. Assistance can be shown here, and will be long remembered</policy>.
-            Good will begets good will. Good faith can be a spiral that endlessly moves on.</p>
+        <p><policy foreign="intervention">To the world, too, we offer new engagement and a renewed
+                vow</policy>: We will stay strong to protect the peace. The “offered hand” is a
+            reluctant fist; but once made, strong, and can be used with great effect. <policy
+                foreign="intervention">There are today Americans who are held against their will in
+                foreign lands, and Americans who are unaccounted for. Assistance can be shown here,
+                and will be long remembered</policy>. Good will begets good will. Good faith can be
+            a spiral that endlessly moves on.</p>
         <p>Great nations like great men must keep their word. When America says something, America
             means it, whether a treaty or an agreement or a vow made on marble steps. We will always
             try to speak clearly, for candor is a compliment, but subtlety, too, is good and has its
-            place. <value category="foreign policy" stance="intervention">While keeping our alliances and friendships
-                around the world strong, ever strong, we will continue the new closeness with the
-                Soviet Union, consistent both with our security and with progress</value>. <tone
+            place. <policy foreign="intervention">While keeping our alliances and friendships around
+                the world strong, ever strong, we will continue the new closeness with the Soviet
+                Union, consistent both with our security and with progress</policy>. <tone
                 emotion="optimistic">One might say that our new relationship in part reflects the
                 triumph of hope and strength over experience. But hope is good, and so are strength
                 and vigilance</tone>.</p>
@@ -186,11 +185,11 @@
                 on men’s souls. In fact, I yearn for a greater tolerance, an easy-goingness about
                 each other’s attitudes and way of life</value>.</p>
         <p>There are few clear areas in which <value type="unity">we as a society must rise up
-                united</value> and express our intolerance. <policy category="drugs">The most
-                obvious now is drugs. And when that first cocaine was smuggled in on a ship, it may
-                as well have been a deadly bacteria, so much has it hurt the body, the soul of our
-                country. And there is much to be done and to be said, but take my word for it: This
-                scourge will stop</policy>.</p>
+                united</value> and express our intolerance. <policy crime="drugs">The most obvious
+                now is drugs. And when that first cocaine was smuggled in on a ship, it may as well
+                have been a deadly bacteria, so much has it hurt the body, the soul of our country.
+                And there is much to be done and to be said, but take my word for it: This scourge
+                will stop</policy>.</p>
         <p><value type="action">And so, there is much to do; and tomorrow the work begins</value>.
                 <tone emotion="optimistic">I do not mistrust the future; I do not fear what is
                 ahead</tone>. For our problems are large, but our heart is larger. Our challenges

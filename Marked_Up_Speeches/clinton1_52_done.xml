@@ -35,7 +35,7 @@
             a world warmed by the sunshine of freedom but <tone emotion="stress">threatened still by
                 ancient hatreds and new plagues</tone>.</p>
         <p><tone emotion="pride">Raised in unrivaled prosperity, we inherit an economy that is still
-                the world’s strongest</tone>, <policy category="economy">but is weakened by business
+                the world’s strongest</tone>, <policy economy="business">but is weakened by business
                 failures, stagnant wages</policy>, <value type="equality">increasing inequality, and
                 deep divisions among our own people</value>.</p>
         <p><tone rhetoric="appeal to past">When George Washington first took the oath I have just
@@ -50,11 +50,11 @@
                 not our enemy</value>.</p>
         <p>This new world has already enriched the lives of millions of Americans who are able to
             compete and win in it. <value type="equality">But when most people are working harder
-                for less; when others cannot work at all</value>; <policy category="health">when the
-                cost of health care devastates families and threatens to bankrupt our
-                enterprises</policy>, great and small; <value type="protection">when the fear of
-                crime robs law-abiding citizens of their freedom</value>; <value type="equality">and
-                when millions of poor children cannot even imagine the lives we are calling them to
+                for less; when others cannot work at all</value>; <policy health="health care">when
+                the cost of health care devastates families and threatens to bankrupt our
+                enterprises</policy>, great and small; <policy crime="safety">when the fear of crime
+                robs law-abiding citizens of their freedom</policy>; <value type="equality">and when
+                millions of poor children cannot even imagine the lives we are calling them to
                 lead</value>—we have not made change our friend.</p>
         <p><tone emotion="stress">We know we have to face hard truths and take strong steps. But we
                 have not done so. Instead, we have drifted, and that drifting has eroded our
@@ -77,9 +77,9 @@
                 new season of American renewal has begun</value>.</p>
         <p>To renew America, we must be bold.</p>
         <p><value type="progress">We must do what no generation has had to do before</value>.
-                <policy category="economy">We must invest more in our own people, in their jobs and
-                in their future, and at the same time cut our massive debt</policy>. And we must do
-            so in a world in which we must compete for every opportunity.</p>
+                <policy economy="jobs">We must invest more in our own people, in their jobs and in
+                their future, and at the same time cut our massive debt</policy>. And we must do so
+            in a world in which we must compete for every opportunity.</p>
         <p><tone emotion="stress">It will not be easy; it will require sacrifice</tone>. <tone
                 emotion="optimistic">But it can be done, and done fairly, not choosing sacrifice for
                 its own sake, but for our own sake</tone>. We must provide for our Nation the way a
@@ -111,59 +111,62 @@
                 tomorrows, not our yesterdays</tone>.</p>
         <p><tone emotion="provoking">Let us give this Capital back to the people to whom it
                 belongs</tone>.</p>
-        <p><policy category="foreign policy" stance="intervention">To renew America, we must meet challenges abroad as
-                well as at home. There is no longer a clear division between what is foreign and
-                what is domestic</policy>—<policy category="economy">the world economy</policy>,
-                <policy category="climate">the world environment</policy>, <policy category="health"
-                >the world AIDS crisis</policy>, <policy category="war">the world arms
-            race</policy>, they affect us all.</p>
+        <p><policy foreign="intervention">To renew America, we must meet challenges abroad as well
+                as at home. There is no longer a clear division between what is foreign and what is
+                domestic</policy>—<policy economy="global economy">the world economy</policy>,
+                <policy environment="preservation">the world environment</policy>, <policy
+                health="public health">the world AIDS crisis</policy>, <policy military="war">the
+                world arms race</policy>, they affect us all.</p>
         <p>Today, as an old order passes, the new world is more free but less stable. <tone
                 emotion="stress">Communism’s collapse has called forth old animosities and new
-                dangers</tone>. <policy category="foreign policy" stance="intervention">Clearly America must continue to
-                lead the world we did so much to make</policy>.</p>
+                dangers</tone>. <policy foreign="intervention">Clearly America must continue to lead
+                the world we did so much to make</policy>.</p>
         <p>While America rebuilds at home, we will not shrink from the challenges, nor fail to seize
-            the opportunities, of this new world. <policy category="foreign policy" stance="intervention">Together with
-                our friends and allies, we will work to shape change, lest it engulf
-            us</policy>.</p>
-        <p><policy category="foreign policy" stance="intervention">When our vital interests are challenged, or the will and conscience of the international
-            community is defied, we will act—with peaceful diplomacy whenever possible, with force
-            when necessary</policy>. <value type="military">The brave Americans serving our Nation today in the Persian Gulf, in
-                Somalia, and wherever else they stand are testament to our resolve</value>.</p>
-        <p><tone emotion="pride">But our greatest strength is the power of our ideas, which are still new in many lands.
-            Across the world, we see them embraced—and we rejoice</tone>. <policy category="foreign policy" stance="intervention">Our hopes, our hearts, and our
-            hands, are with those on every continent who are building democracy and freedom. Their
-            cause is America’s cause</policy>.</p>
-        <p><value type="progress">The American people have summoned the change we celebrate today</value>. You have raised your
-            voices in an unmistakable chorus. You have cast your votes in historic numbers. And you
-            have changed the face of the Congress, the Presidency, and the political process
-            itself.</p>
+            the opportunities, of this new world. <policy foreign="intervention">Together with our
+                friends and allies, we will work to shape change, lest it engulf us</policy>.</p>
+        <p><policy foreign="intervention">When our vital interests are challenged, or the will and
+                conscience of the international community is defied, we will act—with peaceful
+                diplomacy whenever possible, with force when necessary</policy>. <policy
+                military="soldiers">The brave Americans serving our Nation today in the Persian
+                Gulf, in Somalia, and wherever else they stand are testament to our
+            resolve</policy>.</p>
+        <p><tone emotion="pride">But our greatest strength is the power of our ideas, which are
+                still new in many lands. Across the world, we see them embraced—and we
+                rejoice</tone>. <policy foreign="intervention">Our hopes, our hearts, and our hands,
+                are with those on every continent who are building democracy and freedom. Their
+                cause is America’s cause</policy>.</p>
+        <p><value type="progress">The American people have summoned the change we celebrate
+                today</value>. You have raised your voices in an unmistakable chorus. You have cast
+            your votes in historic numbers. And you have changed the face of the Congress, the
+            Presidency, and the political process itself.</p>
         <p>Yes, you, my fellow Americans, have forced the spring.</p>
         <p>Now, we must do the work the season demands.</p>
         <p>To that work I now turn, with all the authority of my office. I ask the Congress to join
             with me. But no President, no Congress, no government, can undertake this mission
             alone.</p>
         <p>My fellow Americans, you, too, must play your part in our renewal.</p>
-        <p><value type="unity">I challenge a new generation of young Americans to a season of service—to act on your
-            idealism by helping troubled children, keeping company with those in need, reconnecting
-            our torn communities</value>. There is so much to be done—enough indeed for millions of others
-            who are still young in spirit to give of themselves in service, too.</p>
-        <p><value type="unity">In serving, we recognize a simple but powerful truth: We need each other. And we must
-            care for one another</value>.</p>
+        <p><value type="unity">I challenge a new generation of young Americans to a season of
+                service—to act on your idealism by helping troubled children, keeping company with
+                those in need, reconnecting our torn communities</value>. There is so much to be
+            done—enough indeed for millions of others who are still young in spirit to give of
+            themselves in service, too.</p>
+        <p><value type="unity">In serving, we recognize a simple but powerful truth: We need each
+                other. And we must care for one another</value>.</p>
         <p>Today, we do more than celebrate America; we rededicate ourselves to the very idea of
             America: An idea born in revolution and renewed through two centuries of challenge; An
-            idea tempered by the knowledge that, but for fate, <value type="unity">we—the fortunate and the
-            unfortunate—might have been each other; An idea ennobled by the faith that our Nation
-            can summon from its myriad diversity the deepest measure of unity</value>; An idea infused with
-            the conviction that <value type="progress">America’s long heroic journey must go forever upward</value>.</p>
-        <p>And so, my fellow Americans, as we stand at the edge of the 21st century, <value type="progress">let us begin
-            anew with energy and hope</value>, with faith and discipline, and let us work until our work is
-            done. <value type="religion">The Scripture says “And let us not be weary in well-doing, for in due season, we
-                shall reap, if we faint not.”</value></p>
+            idea tempered by the knowledge that, but for fate, <value type="unity">we—the fortunate
+                and the unfortunate—might have been each other; An idea ennobled by the faith that
+                our Nation can summon from its myriad diversity the deepest measure of
+            unity</value>; An idea infused with the conviction that <value type="progress">America’s
+                long heroic journey must go forever upward</value>.</p>
+        <p>And so, my fellow Americans, as we stand at the edge of the 21st century, <value
+                type="progress">let us begin anew with energy and hope</value>, with faith and
+            discipline, and let us work until our work is done. <value type="religion">The Scripture
+                says “And let us not be weary in well-doing, for in due season, we shall reap, if we
+                faint not.”</value></p>
         <p>From this joyful mountaintop of celebration, we hear a call to service in the valley.</p>
-        <p>We have heard the trumpets. We have changed the guard. <value type="religion">And now—each in our own way, and with God’s
-            help—we must answer the call</value>.</p>
-        <p>
-            Thank you, and <value type="religion">God bless you all</value>.
-        </p>
+        <p>We have heard the trumpets. We have changed the guard. <value type="religion">And
+                now—each in our own way, and with God’s help—we must answer the call</value>.</p>
+        <p> Thank you, and <value type="religion">God bless you all</value>. </p>
     </body>
 </speech>
