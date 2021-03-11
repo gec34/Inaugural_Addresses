@@ -5,7 +5,7 @@ den=element den {"Episcopal" | "Unitarian" | "Deist" | "Presbyterian" | "Dutch R
 class=element class {"lower" | "middle" | "upper"}
 state=element state {text}
 party=element party {"Unaffiliated" | "Federalist" | "Democratic-Republican" | "Democratic" | "Whig" | "Independent" | "Republican" }
-profession=element profession {"Farmer" | "Soldier" | "Lawyer" | "Diplomat" | "Teacher" | "Sheriff" | "Public Official" | "Judge" | "Professor" | "Businessman" | "Writer" | "Sailor" | "Community Organizer" | "Minister"| "Newspaper Publisher" | "Engineer" | "Actor" }
+profession=element profession {"Farmer" | "Soldier" | "Lawyer" | "Diplomat" | "Teacher" | "Sheriff" | "Public Official" | "Judge" | "Professor" | "Businessman" | "Writer" | "Sailor" | "Community Organizer" | "Minister"| "Newspaper Publisher" | "Engineer" | "Actor" | "TV Personality" }
 term=element term {"1" | "2" | "3" | "4"}
 
 speech=element speech {meta, body}
@@ -18,7 +18,7 @@ tone=element tone { rhetoric?, emotion?, text}
 rhetoric= attribute rhetoric {text}
 emotion = attribute emotion {text}
 
-policy=element policy {economy? | military? | civil_rights? | foreign? | welfare? | education? | government? | health? | text}
+policy=element policy { mixed {economy | military | civil_rights | foreign | welfare | education | government | health | environment | terrorism | crime | immigration}}
 economy = attribute economy {text}
 military = attribute military {text}
 civil_rights = attribute civil_rights {text}
@@ -27,9 +27,13 @@ welfare = attribute welfare {text}
 education = attribute education {text}
 government = attribute government {text}
 health = attribute health {text}
+environment = attribute environment {text}
+terrorism = attribute terrorism {text}
+crime = attribute crime {text}
+immigration = attribute immigration {text}
 
-value= element value {type , text}
-type = attribute type{"unity"? | "equality"? | "liberty"? | "religion"? | "democracy"? |"humility"?}
+value= element value { type , text}
+type = attribute type { "unity"? | "equality"? | "liberty"? | "religion"? | "democracy"? | "humility"? | "progress"? | "restoration"? | "security"? | "action"? | "patriotism"? | "science" }
 
 
 
