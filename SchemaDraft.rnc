@@ -18,7 +18,7 @@ tone=element tone { rhetoric?, emotion?, text}
 rhetoric= attribute rhetoric {text}
 emotion = attribute emotion {text}
 
-policy=element policy { mixed {economy | military | civil_rights | slavery | foreign | welfare | education | government | health | environment | terrorism | crime | immigration | prison | homelessness }}
+policy=element policy { mixed {economy | military | civil_rights | foreign | welfare | education | government | health | environment | terrorism | crime | immigration | prison | homelessness }}
 economy = attribute economy {text}
 military = attribute military {text}
 civil_rights = attribute civil_rights {text}
