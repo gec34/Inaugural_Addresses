@@ -61,11 +61,11 @@
 
         <p>We have already found a high degree of personal liberty, and we are now struggling to
                 <value type="equality">enhance equality of opportunity. Our commitment to human
-                    rights must be absolute, our laws fair, <policy environment="preservation">our natural beauty preserved;</policy> the powerful
-                must not persecute the weak, and human dignity must be enhanced.</value></p>
+                    rights must be absolute, our laws fair,</value> <policy environment="preservation">our natural beauty preserved;</policy> the powerful
+                must not persecute the weak, and human dignity must be enhanced.</p>
 
         <p>We have learned that “more” is not necessarily “better,” <tone emotion="humble">that even our great Nation has
-            its recognized limits,</tone> <tone type="humble">and that we can neither answer all questions
+            its recognized limits,</tone> <tone emotion="humble">and that we can neither answer all questions
                 nor solve all problems. We cannot afford to do everything, nor can we afford to lack
                 boldness as we meet the future. So, together, in a spirit of individual sacrifice
                 for the common good, we must simply do our best.</tone></p>
@@ -112,8 +112,8 @@
                 time as your President has ended, people might say this about our Nation: —that we
                 had remembered the words of Micah and renewed our search for humility, mercy, and
                 justice;</tone> —that we had torn down the barriers that separated those of
-            different race and region and religion, and where there had been mistrust, <values
-                type="unity">built unity, with a respect for diversity;</values> —that we had found
+            different race and region and religion, and where there had been mistrust, <value
+                type="unity">built unity, with a respect for diversity;</value> —that we had found
             productive work for those able to perform it; —that we had strengthened the American
             family, which is the basis of our society; —that we had ensured respect for the law, and
             equal treatment under the law, for the weak and the powerful, for the rich and the poor;
