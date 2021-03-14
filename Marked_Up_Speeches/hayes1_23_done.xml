@@ -74,7 +74,7 @@
                      <value type="unity">partisan sense, either Republicans or Democrats, but fellow-citizens and
                      fellow-men, to whom the interests of a common country and a common humanity are
                      dear.</value></p>
-              <p><policy civil_rights="equal-protection">The sweeping revolution of the entire labor system of a large portion of our
+              <p><policy civil_rights="equal_protection">The sweeping revolution of the entire labor system of a large portion of our
                      country and the advance of 4,000,000 people from a condition of servitude to
                      that of citizenship, upon an equal footing with their former masters, could not
                      occur without presenting problems of the gravest moment, to be dealt with by
@@ -105,7 +105,7 @@
                      economy.</policy></p>
               <p>But at the basis of all prosperity, for that as well as for every other part of the
                      country, lies the improvement of the intellectual and moral condition of
-                     the people.<policy education="african-american"> Universal suffrage should rest upon universal education. To this
+                     the people.<policy education="african_american"> Universal suffrage should rest upon universal education. To this
                      end, liberal and permanent provision should be made for the support of free
                      schools by the State governments, and, if need be, supplemented by legitimate
                      aid from national authority.</policy></p>
