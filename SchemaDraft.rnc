@@ -36,7 +36,7 @@ prison = attribute prison {text}
 homelessness = attribute homelessness {text}
 
 value= element value { type , text}
-type = attribute type { "unity"? | "equality"? | "liberty"? | "religion"? | "democracy"? | "humility"? | "progress"? | "restoration"? | "security"? | "action"? | "patriotism"? | "science"? | "civility"? }
+type = attribute type { "unity"? | "equality"? | "liberty"? | "religion"? | "democracy"? | "humility"? | "progress"? | "restoration"? | "individualism"? | "security"? | "action"? | "patriotism"? | "science"? | "civility"? }
 
 
 
