@@ -7,6 +7,7 @@
         <class>upper</class>
         <state>Virginia</state>
         <party>Unaffiliated</party>
+        <profession>Soldier</profession>
         <term>1</term>
         <title>Address by George Washington</title>
         <date>April 30, 1789</date>
@@ -50,7 +51,7 @@
             States a Government instituted by themselves for these essential purposes, and may
             enable every instrument employed in its administration to execute with success the
             functions allotted to his charge. In tendering this homage to the <value
-                religion="title">Great Author</value> of every public and private good, I assure
+                type="religion">Great Author</value> of every public and private good, I assure
             myself that it <value type="humility">expresses your sentiments not less than my
                 own, nor those of my fellow-citizens at large less than either</value>. No people
             can be bound to acknowledge and adore the <value type="religion">Invisible Hand</value>
@@ -66,7 +67,7 @@
                 emotion ="stressed">present crisis</tone>, have forced themselves too strongly on my
             mind to be suppressed. <value type="unity">You will join with me</value>, I trust,
             in thinking that there are none under the influence of which the proceedings of a <value
-                type="freedom">new and free</value> government can more auspiciously commence. </p>
+                type="liberty">new and free</value> government can more auspiciously commence. </p>
 
         <p>By the article establishing the executive department it is made the duty of the President
             “to recommend to your consideration such measures as he shall judge necessary and
@@ -110,7 +111,7 @@
             myself that whilst you carefully avoid every alteration which might endanger the
             benefits of an united and effective government, or which ought to await the future
             lessons of experience, a reverence for the characteristic rights of <value
-                type="freedom, democracy">freemen and a regard for the public harmony</value>
+                type="democracy">freemen and a regard for the public harmony</value>
             will sufficiently influence your deliberations on the question how far the former can be
             impregnably fortified or the latter be safely and advantageously promoted. </p>
 

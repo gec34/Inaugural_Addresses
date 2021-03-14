@@ -4,6 +4,7 @@
     <meta>
         <name>Thomas Jefferson</name>
         <den>Deist</den>
+        <class>middle</class>
         <state>Virginia</state>
         <party>Democratic-Republican</party>
         <profession>Lawyer</profession>
@@ -56,7 +57,7 @@
             to extend those limits, and to <policy economy = "debt">apply such a surplus to our public debts as places at a
             short day their final redemption</policy>, and that redemption once effected the revenue there by
             liberated may, by a just repartition of it among the States and a corresponding
-            amendment of the Constitution, be applied in time of <policy infrastructure="development"
+            amendment of the Constitution, be applied in time of <policy economy="infrastructure"
                 >peace torivers, canals, roads, arts, manufactures, education, and other great
                 objects</policy> within each State. In time of war, if injustice by ourselves or
             others must sometimes produce war, increased as the same revenue will be by increased
@@ -69,7 +70,7 @@
         <p>I have said, <value type="unity">fellow-citizens</value>, that the income reserved had
             enabled us to extend our limits, but that extension may possibly pay for itself before
             we are called on,and in the mean time may keep down the accruing interest; in all
-            events, it will replace the advances we shall have made. <policy expansionism = "pro">I know that the acquisition of
+            events, it will replace the advances we shall have made. <policy government = "expand">I know that the acquisition of
             Louisiana had been disapproved by some from a candid apprehension that the enlargement
             of our territory would endanger its union. But who can limit the extent to which the
             federative principle may operate effectively? The larger our association the less will
@@ -78,7 +79,7 @@
             of another family? With which should we be most likely to live in harmony and friendly
             intercourse?</p>
 
-        <p><policy freedom="bill of rights">In matters of religion I have considered that its
+        <p><policy civil_rights ="bill of rights">In matters of religion I have considered that its
                 free exercise is placed by the Constitution independent of the powers of the General
                 Government</policy>. I have therefore undertaken on no occasion to prescribe the
             religious exercises suited to it, but have left them, as the Constitution found them,
@@ -91,7 +92,7 @@
             desire but to be undisturbed, the stream of overflowing population from other regions
             directed itself on these shores; without power to divert or habits to contend against
             it, they have been overwhelmed by the current or driven before it; now reduced within
-            limits too narrow for the hunter’s state, <policy expansionism="indigineous colonization">humanity
+            limits too narrow for the hunter’s state, <policy government="indigineous colonization">humanity
                 enjoins us to teach them agriculture and the domestic arts; to encourage them to
                 that industry which alone canenable them to maintain their place in existence and to
                 prepare them in time for that state of society which to bodily comforts adds the
@@ -105,7 +106,7 @@
             with the change of circumstances have powerful obstacles to encounter; they are combated
             by the habits of their bodies, prejudices of their minds, ignorance, pride, and the
             influence of interested and crafty individuals among them who feel themselves something
-            in the present order of things and fear to become nothing in any other. <policy expansionism = "indigineous colonization">These persons
+            in the present order of things and fear to become nothing in any other. <policy government = "indigineous colonization">These persons
             inculcate a sanctimonious reverence for the customs of their ancestors; that whatsoever
             they did must be done through all time; that reason is a false guide, and to advance
             under its counsel in their physical, moral, or political condition is perilous
@@ -137,8 +138,7 @@
                 in the public indignation</tone>.</p>
 
         <p>Nor was it uninteresting to the world that an experiment should be fairly and fully made,
-            whether freedom of discussion, unaided by power, is not sufficient for the <value
-                type="honesty">propagation and protection of truth</value>—whether a government
+            whether freedom of discussion, unaided by power, is not sufficient for the propagation and protection of truth—whether a government
             conducting itself in the true spirit of its constitution, with zeal and purity, and
             doing no act which it would be unwilling the whole world should witness, can be written
             down by falsehood and defamation. The experiment has been tried; you have witnessed the

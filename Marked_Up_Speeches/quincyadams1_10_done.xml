@@ -141,7 +141,7 @@
             views of administrative policy are in their nature transitory. Those which are founded
             on geographical divisions, adverse interests of soil, climate, and modes of domestic
             life are more permanent, and therefore, perhaps, more dangerous. It is this which gives
-            inestimable value to the character of our Government, at once federal and national. <policy freedom = "states rights">It
+            inestimable value to the character of our Government, at once federal and national. <policy government = "states_rights">It
             holds out to us a perpetual admonition to preserve alike and with equal anxiety the
             rights of each individual State in its own government and the rights of the whole nation
             in that of the Union</policy>. Whatsoever is of domestic concernment, unconnected with the other
@@ -157,7 +157,7 @@
             councils annually assembled from all quarters of the Union at this place. Here the
             distinguished men from every section of our country, while meeting to deliberate upon
             the great interests of those by whom they are deputed, learn to estimate the talents and
-            do justice to the virtues of each other. <value type = "respect">The harmony of the nation is promoted and the
+            do justice to the virtues of each other. <value type = "civility">The harmony of the nation is promoted and the
             whole Union is knit together by the sentiments of mutual respect, the habits of social
             intercourse, and the ties of personal friendship formed between the representatives of
             its several parts in the performance of their service at this metropolis</value>.</p>
@@ -235,7 +235,7 @@
                 support of the people so far as it may be deserved by honest industry and zeal, I
                 shall look for whatever success may attend my public service; and knowing that
                 “except <value type = "religion">the Lord</value> keep the city the watchman waketh but in
-                vain,” with fervent supplications for <value type = "religion>His</value> favor, to <value type = "religion">His</value> overruling providence I commit with humble but
+                vain,” with fervent supplications for <value type = "religion">His</value> favor, to <value type = "religion">His</value> overruling providence I commit with humble but
                 fearless confidence my own fate and the future destinies of my
             country.</p>
     </body>

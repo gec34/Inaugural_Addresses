@@ -16,8 +16,8 @@
 
     <body>
         <p><value type="humility">I should be destitute of feeling if I was not deeply affected
-                by the strong proof which my <value type ="unity">fellow-citizens</value> have given
-                me of their confidence</value> in calling me to the high office whose functions I am
+                by the strong proof</value> which my <value type ="unity">fellow-citizens</value> have given
+                me of their confidence in calling me to the high office whose functions I am
             about to assume. As the expression of their good opinion of my conduct in the public
             service, I derive from it a gratification which those who are conscious of having done
             all that they could to merit it can alone feel. My sensibility is increased by a just
@@ -58,9 +58,8 @@
             strength and maturity which are the best proofs of wholesome laws well administered. And
             if we look to the condition of individuals what a proud spectacle does it exhibit! On
             whom has oppression fallen in any quarter of our Union? Who has been deprived of any
-            right of person or property? <value type="religious"> Who restrained
-                from offering his vows in the mode which he prefers to the <value type="religion"
-                    >Divine Author</value> of his being? </value> It is well known that all these
+            right of person or property? <value type="religion"> Who restrained
+                from offering his vows in the mode which he prefers to the Divine Author of his being? </value> It is well known that all these
             blessings have been enjoyed in their fullest extent; and I add with peculiar
             satisfaction that there has been no example of a capital punishment being inflicted on
             anyone for the crime of hight reason. </p>
@@ -188,7 +187,7 @@
             overwhelming force of gallant men might always be put in motion.</p>
         
         <p>Other interests of high importance will claim attention, among which the improvement of
-            our country by <policy infrastructure="development">roads and canals</policy>, proceeding always
+            our country by <policy government="infrastructure">roads and canals</policy>, proceeding always
             with a constitutional sanction, holds a distinguished place. By thus facilitating the
             intercourse between the States we shall add much to the convenience and comfort of our
                 <value type="unity">fellow-citizens</value>, much to the ornament of the country,
@@ -214,14 +213,14 @@
             cultivator against the casualties incident to foreign markets.</p>
         
         <p>With the Indian tribes it is our duty to cultivate friendly relations and to act with
-            kindness and liberality in all our transactions. <policy expansionism="indigeneous colonization">Equally
+            kindness and liberality in all our transactions. <policy government="indigeneous colonization">Equally
                 proper is it to persevere in our efforts to extend to them the advantages of
                 civilization</policy>.</p>
         
         <p>The <tone emotion="confident">great amount of our revenue and the flourishing state of
                 the Treasury are a full proof of the competency</tone> of the national resources for
             any emergency, as they are of the willingness of our <value type="unity"
-                >fellow-citizens</tone> to bear the burdens which the public necessities require.
+                >fellow-citizens</value> to bear the burdens which the public necessities require.
             The vast amount of vacant lands, the value of which daily augments, forms an additional
             resource of great extent and duration. These resources, besides accomplishing every
             other necessary purpose, put it completely in the power of the United States to
@@ -256,7 +255,7 @@
             Government, extending its blessings to every individual, as by the other eminent
             advantages attending it. The American people have encountered together great dangers and
             sustained severe trials with success. They constitute one great <value type="unity"
-                >family</tone> with a common interest. Experience has enlightened us on some
+                >family</value> with a common interest. Experience has enlightened us on some
             questions of essential importance to the country. The progress has been slow, dictated
             by a just reflection and a faithful regard to every interest connected with it. To
             promote this harmony in accord with the principles of our republican Government and in a

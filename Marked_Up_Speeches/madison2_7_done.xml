@@ -43,12 +43,12 @@
 
         <p>On the issue of the war are staked our national sovereignty on the high seas and
             the security of an important class of citizens, whose occupations give the proper value
-            to those of every other class. <value type = "nationalism">Not to contend for such a stake is to surrender our
+            to those of every other class. <policy foreign = "nationalism">Not to contend for such a stake is to surrender our
             equality with other powers on the element common to all and to violate the sacred title
             which every member of the society has to its protection. I need not call into view
             the unlawfulness of the practice by which our mariners are forced at the will of
             every cruising officer from their own vessels into foreign ones, nor paint the
-            outrages inseparable from it</value>. The proofs are in the records of each successive
+            outrages inseparable from it</policy>. The proofs are in the records of each successive
             Administration of our Government, and the cruel sufferings of that portion of the
             American people have found their way to every bosom not dead to the sympathies of human
             nature.</p>
@@ -77,11 +77,11 @@
             cruel instruments; have allured them into their service, and carried them to battle by
             their sides, eager to glut their <tone emotion = "angry">savage thirst with the blood of the vanquished and to
             finish the work of torture and death on maimed and defenseless captives</tone>. And, what was
-            never before seen, <value type = "nationalism">British commanders have extorted victory over the unconquerable valor
+            never before seen, <policy foreign = "nationalism">British commanders have extorted victory over the unconquerable valor
             of our troops by presenting to the sympathy of their chief captives awaiting massacre
             from their savage associates. And now we find them, in further contempt of the modes
             of honorable warfare, supplying the place of a conquering force by attempts to
-            disorganize our political society, to dismember our confederated Republic</value>. Happily, like
+            disorganize our political society, to dismember our confederated Republic</policy>. Happily, like
             others,these will recoil on the authors; but they mark the degenerate counsels from
             which they emanate, and if they did not belong to a sense of unexampled inconsistencies
             might excite the greater wonder as proceeding from a Government which founded the very
