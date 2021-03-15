@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-
-
- <?xml-model href="FinalSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../SchemaDraft.rnc" type="application/relax-ng-compact-syntax"?>
 <speech>
        <meta>
               <name>James K. Polk</name>
               <den>Presbyterian</den>
               <class>middle</class>
-              <kids>0</kids>
-              <married>married</married>
               <state>Tennessee</state>
               <party>Democratic</party>
-              <age>49</age>
               <profession>Lawyer</profession>
               <term>1</term>
               <title>Address by James K. Polk,</title>
@@ -22,31 +16,31 @@
               <p>Fellow-Citizens:</p>
               <p>Without solicitation on my part, I have been chosen by the free and voluntary
                      suffrages of my countrymen to the most honorable and most responsible office on
-                     earth. I am deeply impressed with gratitude for the confidence reposed in me.
+                     earth. <value type = "humility">I am deeply impressed with gratitude for the confidence reposed in me.
                      Honored with this distinguished consideration at an earlier period of life than
                      any of my predecessors, I can not disguise the diffidence with which I am about
-                     to enter on the discharge of my official duties.</p>
+                     to enter on the discharge of my official duties</value>.</p>
               <p>If the more aged and experienced men who have filled the office of President of the
                      United States even in the infancy of the Republic distrusted their ability to
                      discharge the duties of that exalted station, what ought not to be the
                      apprehensions of one so much younger and less endowed now that our domain
-                     extends from ocean to ocean, that our people have so greatly increased in
+                     extends from ocean to ocean, <tone emotion = "optimistic">that our people have so greatly increased in
                      numbers, and at a time when so great diversity of opinion prevails in regard to
                      the principles and policy which should characterize the administration of our
                      Government? Well may the boldest fear and the wisest tremble when incurring
                      responsibilities on which may depend our country’s peace and prosperity, and in
-                     some degree the hopes and happiness of the whole human family.</p>
-              <p><reference category="supplication" type="direct">In assuming responsibilities so
-                            vast I fervently invoke the aid of that <god style="poetic">Almighty
-                                   Ruler of the Universe</god>in whose hands are the destinies of
+                     some degree the hopes and happiness of the whole human family</tone>.</p>
+              <p>In assuming responsibilities so
+                            vast I fervently invoke the aid of that <value type = "religion">Almighty
+                                   Ruler of the Universe</value>in whose hands are the destinies of
                             nations and of men to guard this Heaven-favored land against the
-                            mischiefs </reference>
-                     <reference type="direct" category="humility"> which without <god style="pronoun"
-                                   >His</god>guidance might arise from an unwise public
-                            policy.</reference><reference type="indirect" category="humility">With a
-                            firm reliance upon the wisdom of <god style="poetic">Omnipotence</god>to
+                            mischiefs 
+                    which without <value type = "religion"
+                                   >His</value>guidance might arise from an unwise public
+                            policy.With a
+                            firm reliance upon the wisdom of <value type = "religion">Omnipotence</value>to
                             sustain and direct me in the path of duty which I am appointed to
-                            pursue,</reference>I stand in the presence of this assembled multitude
+                            pursue,I stand in the presence of this assembled multitude
                      of my countrymen to take upon myself the solemn obligation “to the best of my
                      ability to preserve, protect, and defend the Constitution of the United
                      States.”</p>
@@ -66,10 +60,10 @@
                      collisions between the Federal and State authorities which have occasionally so
                      much disturbed the harmony of our system and even threatened the perpetuity of
                      our glorious Union.</p>
-              <p>“To the States, respectively, or to the people” have been reserved “the powers not
+              <p>“To the States, respectively, or to the people” have been reserved <policy government = "states_rights">“the powers not
                      delegated to the United States by the Constitution nor prohibited by it to the
                      States.” Each State is a complete sovereignty within the sphere of its reserved
-                     powers. The Government of the Union, acting within the sphere of its delegated
+                     powers. </policy>The Government of the Union, acting within the sphere of its delegated
                      authority, is also a complete sovereignty. While the General Government should
                      abstain from the exercise of authority not clearly delegated to it, the States
                      should be equally careful that in the maintenance of their rights they do not
@@ -81,14 +75,12 @@
                      vigor, as the sheet anchor of our peace at home and safety abroad.”</p>
               <p>To the Government of the United States has been intrusted the exclusive management
                      of our foreign affairs. Beyond that it wields a few general enumerated powers.
-                     It does not force reform on the States. It leaves individuals, over whom it
+                     It does not force reform on the States. <value type="democracy">It leaves individuals, over whom it
                      casts its protecting influence, entirely free to improve their own condition by
-                     the legitimate exercise of all their mental and physical powers. It is a common
+                     the legitimate exercise of all their mental and physical powers</value>. It is a common
                      protector of each and all the States; of every man who lives upon our soil,
-                     whether of native or foreign birth; of every religious sect,<reference
-                            category="praise" type="indirect">in their worship of <god style="title"
-                                   >the Almighty</god>according to the dictates of their own
-                            conscience</reference>; of every shade of opinion, and the most free
+                     whether of native or foreign birth; of every religious sect,in their worship of <value type = "religion">the Almighty</value>according to the dictates of their own
+                            conscience; of every shade of opinion, and the most free
                      inquiry; of every art, trade, and occupation consistent with the laws of the
                      States. And we rejoice in the general happiness, prosperity, and advancement of
                      our country, which have been the offspring of freedom, and not of power.</p>
@@ -102,8 +94,8 @@
                      myself with anxious solicitude. It will be my desire to guard against that most
                      fruitful source of danger to the harmonious action of our system which consists
                      in substituting the mere discretion and caprice of the Executive or of
-                     majorities in the legislative department of the Government for powers which
-                     have been withheld from the Federal Government by the Constitution. By the
+                     majorities in the legislative department of the Government for <policy government = "balance_of_power">powers which
+                     have been withheld from the Federal Government by the Constitution</policy>. By the
                      theory of our Government majorities rule, but this right is not an arbitrary or
                      unlimited one. It is a right to be exercised in subordination to the
                      Constitution and in conformity to it. One great object of the Constitution was
@@ -136,8 +128,8 @@
                      his enjoyments. Genius is free to announce its inventions and discoveries, and
                      the hand is free to accomplish whatever the head conceives not incompatible
                      with the rights of a fellow-being. All distinctions of birth or of rank have
-                     been abolished. All citizens, whether native or adopted, are placed upon terms
-                     of precise equality. All are entitled to equal rights and equal protection. No
+                     been abolished. <value type="equality">All citizens, whether native or adopted, are placed upon terms
+                     of precise equality</value>. All are entitled to equal rights and equal protection. No
                      union exists between church and state, and perfect freedom of opinion is
                      guaranteed to all sects and creeds.</p>
               <p>These are some of the blessings secured to our happy land by our Federal Union. To
@@ -173,10 +165,10 @@
                      them to be successful in attaining their object the dissolution of the Union
                      and the consequent destruction of our happy form of government must speedily
                      follow.</p>
-              <p>I am happy to believe that at every period of our existence as a nation there has
+              <p><tone emotion="optimistic">I am happy to believe that at every period of our existence as a nation there has
                      existed, and continues to exist, among the great mass of our people a devotion
                      to the Union of the States which will shield and protect it against the moral
-                     treason of any who would seriously contemplate its destruction. To secure a
+                     treason of any who would seriously contemplate its destruction</tone>. To secure a
                      continuance of that devotion the compromises of the Constitution must not only
                      be preserved, but sectional jealousies and heartburnings must be
                      discountenanced, and all should remember that they are members of the same
@@ -199,9 +191,9 @@
                      the public authorities—how impotent for good and how powerful for mischief.</p>
               <p>Ours was intended to be a plain and frugal government, and I shall regard it to be
                      my duty to recommend to Congress and, as far as the Executive is concerned, to
-                     enforce by all the means within my power the strictest economy in the
+                     enforce by all the means within my power the <policy economy = "expenditure">strictest economy in the
                      expenditure of the public money which may be compatible with the public
-                     interests.</p>
+                     interests</policy>.</p>
               <p>A national debt has become almost an institution of European monarchies. It is
                      viewed in some of them as an essential prop to existing governments. Melancholy
                      is the condition of that people whose government can be sustained only by a
@@ -210,9 +202,9 @@
                      our republican Government was instituted. Under a wise policy the debts
                      contracted in our Revolution and during the War of 1812 have been happily
                      extinguished. By a judicious application of the revenues not required for other
-                     necessary purposes, it is not doubted that the debt which has grown out of the
-                     circumstances of the last few years may be speedily paid off.</p>
-              <p>I congratulate my fellow-citizens on the entire restoration of the credit of the
+                     necessary purposes, <policy economy="debt">it is not doubted that the debt which has grown out of the
+                     circumstances of the last few years may be speedily paid off</policy>.</p>
+              <p>I congratulate my <value type = "unity">fellow-citizens</value> on the entire restoration of the credit of the
                      General Government of the Union and that of many of the States. Happy would it
                      be for the indebted States if they were freed from their liabilities, many of
                      which were incautiously contracted. Although the Government of the Union is
@@ -227,13 +219,13 @@
                      season of unexampled pecuniary embarrassment, to pay off all just demands and
                      to acquiesce in any reasonable measures to accomplish that object.</p>
               <p>One of the difficulties which we have had to encounter in the practical
-                     administration of the Government consists in the adjustment of our revenue laws
+                     administration of the Government consists in the <policy economy="taxes">adjustment of our revenue laws
                      and the levy of the taxes necessary for the support of Government. In the
                      general proposition that no more money shall be collected than the necessities
-                     of an economical administration shall require all parties seem to acquiesce.
-                     Nor does there seem to be any material difference of opinion as to the absence
+                     of an economical administration shall require all parties seem to acquiesce</policy>.
+                     <value type = "equality">Nor does there seem to be any material difference of opinion as to the absence
                      of right in the Government to tax one section of country, or one class of
-                     citizens, or one occupation, for the mere profit of another. “Justice and sound
+                     citizens, or one occupation, for the mere profit of another</value>. “Justice and sound
                      policy forbid the Federal Government to foster one branch of industry to the
                      detriment of another, or to cherish the interests of one portion to the injury
                      of another portion of our common country.” I have heretofore declared to my
@@ -241,12 +233,12 @@
                      extend, as far as it may be practicable to do so, by its revenue laws and all
                      other means within its power, fair and just protection to all of the great
                      interests of the whole Union, embracing agriculture, manufactures, the mechanic
-                     arts, commerce, and navigation.” I have also declared my opinion to be “in
+                     arts, commerce, and navigation.” <policy economy="taxes">I have also declared my opinion to be “in
                      favor of a tariff for revenue,” and that “in adjusting the details of such a
                      tariff I have sanctioned such moderate discriminating duties as would produce
                      the amount of revenue needed and at the same time afford reasonable incidental
                      protection to our home industry,” and that I was “opposed to a tariff for
-                     protection merely, and not for revenue.”</p>
+                     protection merely, and not for revenue.”</policy></p>
               <p>The power “to lay and collect taxes, duties, imposts, and excises” was an
                      indispensable one to be conferred on the Federal Government, which without it
                      would possess no means of providing for its own support. In executing this
@@ -266,8 +258,8 @@
                      in their respective pursuits and their joint labors constitute the national or
                      home industry. To tax one branch of this home industry for the benefit of
                      another would be unjust. No one of these interests can rightfully claim an
-                     advantage over the others, or to be enriched by impoverishing the others. All
-                     are equally entitled to the fostering care and protection of the Government. In
+                     advantage over the others, or to be enriched by impoverishing the others. <value type="equality">All
+                     are equally entitled to the fostering care and protection of the Government.</value> In
                      exercising a sound discretion in levying discriminating duties within the limit
                      prescribed, care should be taken that it be done in a manner not to benefit the
                      wealthy few at the expense of the toiling millions by taxing lowest the
@@ -286,7 +278,7 @@
                      taxes as shall be needed for the support of their Government, whether in peace
                      or in war, if they are so levied as to distribute the burdens as equally as
                      possible among them.</p>
-              <p>The Republic of Texas has made known her desire to come into our Union, to form a
+              <p><policy government="statehood">The Republic of Texas has made known her desire to come into our Union, to form a
                      part of our Confederacy and enjoy with us the blessings of liberty secured and
                      guaranteed by our Constitution. Texas was once a part of our country—was
                      unwisely ceded away to a foreign power—is now independent, and possesses an
@@ -295,7 +287,7 @@
                      country that by an act of the late Congress of the United States the assent of
                      this Government has been given to the reunion, and it only remains for the two
                      countries to agree upon the terms to consummate an object so important to
-                     both.</p>
+                     both.</policy></p>
               <p>I regard the question of annexation as belonging exclusively to the United States
                      and Texas. They are independent powers competent to contract, and foreign
                      nations have no right to interfere with them or to take exceptions to their
@@ -323,9 +315,9 @@
                      extended territory, and serious objections have at different times been made to
                      the enlargement of our boundaries. These objections were earnestly urged when
                      we acquired Louisiana. Experience has shown that they were not well founded.
-                     The title of numerous Indian tribes to vast tracts of country has been
+                     <policy government="statehood">The title of numerous Indian tribes to vast tracts of country has been
                      extinguished; new States have been admitted into the Union; new Territories
-                     have been created and our jurisdiction and laws extended over them. As our
+                     have been created and our jurisdiction and laws extended over them.</policy> As our
                      population has expanded, the Union has been cemented and strengthened. As our
                      boundaries have been enlarged and our agricultural population has been spread
                      over a large surface, our federative system has acquired additional strength
@@ -358,7 +350,7 @@
                      by all constitutional, honorable, and appropriate means to consummate the
                      expressed will of the people and Government of the United States by the
                      reannexation of Texas to our Union at the earliest practicable period.</p>
-              <p>Nor will it become in a less degree my duty to assert and maintain by all
+              <p><policy government = "statehood">Nor will it become in a less degree my duty to assert and maintain by all
                      constitutional means the right of the United States to that portion of our
                      territory which lies beyond the Rocky Mountains. Our title to the country of
                      the Oregon is “clear and unquestionable,” and already are our people preparing
@@ -376,11 +368,11 @@
                      increasing facilities of intercourse will easily bring the States, of which the
                      formation in that part of our territory can not be long delayed, within the
                      sphere of our federative Union. In the meantime every obligation imposed by
-                     treaty or conventional stipulations should be sacredly respected.</p>
-              <p>In the management of our foreign relations it will be my aim to observe a careful
+                     treaty or conventional stipulations should be sacredly respected.</policy></p>
+              <p><policy foreign = "careful">In the management of our foreign relations it will be my aim to observe a careful
                      respect for the rights of other nations, while our own will be the subject of
                      constant watchfulness. Equal and exact justice should characterize all our
-                     intercourse with foreign countries. All alliances having a tendency to jeopard
+                     intercourse with foreign countries.</policy> All alliances having a tendency to jeopard
                      the welfare and honor of our country or sacrifice any one of the national
                      interests will be studiously avoided, and yet no opportunity will be lost to
                      cultivate a favorable understanding with foreign governments by which our
@@ -404,14 +396,14 @@
                      differed with him in opinion are entitled to the full and free exercise of
                      their opinions and judgments, and that the rights of all are entitled to
                      respect and regard.</p>
-              <p><reference type="direct" category="supplication">Confidently relying upon the aid
+              <p>Confidently relying upon the aid
                             and assistance of the coordinate departments of the Government in
                             conducting our public affairs, I enter upon the discharge of the high
                             duties which have been assigned me by the people, again humbly
-                            supplicating that <god style="poetic">Divine Being</god>who has watched
+                            supplicating that <value type = "religion">Divine Being</value>who has watched
                             over and protected our beloved country from its infancy to the present
-                            hour to continue <god style="pronoun">His</god>gracious benedictions upon
+                            hour to continue <value type = "religion">His</value>gracious benedictions upon
                             us, that we may continue to be a prosperous and happy
-                            people.</reference></p>
+                            people.</p>
        </body>
 </speech>
