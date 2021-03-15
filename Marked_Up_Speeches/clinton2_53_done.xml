@@ -20,10 +20,10 @@
                 that time and chance have put us not only at the edge of a new century in a new
                 millennium, but on the edge of a bright new prospect in human affairs</tone>. A
             moment that will define our course and our character for decades to come. We must keep
-            our old democracy forever young. <tone rhetoric="appeal to past">Guided by the ancient
+            our old democracy forever young. <tone rhetoric="appeal_to_past">Guided by the ancient
                 vision of a promised land</tone>, let us set our sights upon a land of new
             promise.</p>
-        <p><tone rhetoric="appeal to past">The promise of America was born in the 18th century out
+        <p><tone rhetoric="appeal_to_past">The promise of America was born in the 18th century out
                 of the bold conviction that we are all created equal. It was extended and preserved
                 in the 19th century, when our Nation spread across the continent, saved the Union,
                 and abolished the awful scourge of slavery</tone>.</p>
@@ -31,14 +31,14 @@
                 stage to make this the American century</tone>.</p>
         <p><tone emotion="triumph">And what a century it has been</tone>. <policy economy="industry"
                 >America became the world’s mightiest industrial power</policy>, <policy
-                foreign="intervention">saved the world from tyranny in two world wars and a long
+                foreign="internationalism">saved the world from tyranny in two world wars and a long
                 cold war, and time and again reached out across the globe to millions who, like us,
                 longed for the blessings of liberty</policy>.</p>
         <p>Along the way, Americans produced the great middle class and security in old age; <policy
                 education="schools">built unrivaled centers of learning and opened public schools to
                 all</policy>; <value type="science">split the atom and explored the heavens;
                 invented the computer and the microchip</value>; and <policy
-                civil_rights="civil rights">deepened the wellspring of justice by making a
+                civil_rights="race">deepened the wellspring of justice by making a
                 revolution in civil rights for African Americans and all minorities, and extending
                 the circle of citizenship, opportunity, and dignity to women</policy>.</p>
         <p>Now, for the third time, a new century is upon us, and another time to choose. We began
@@ -55,7 +55,7 @@
                 stands alone as the world’s indispensable nation</tone>. <policy economy="general"
                 >Once again, our economy is the strongest on Earth</policy>. Once again, we are
             building stronger families, thriving communities, <policy education="opportunities"
-                >better educational opportunities</policy>, <policy environment="climate change">a
+                >better educational opportunities</policy>, <policy environment="climate_change">a
                 cleaner environment</policy>. Problems that once seemed destined to deepen, now bend
             to our efforts: <value type="security">our streets are safer</value> and <policy
                 welfare="change">record numbers or our fellow citizens have moved from welfare to
@@ -63,7 +63,7 @@
         <p>And once again, we have resolved for our time a great debate over the role of Government.
             Today we can declare: Government is not the problem; and Government is not the solution.
             We, the American people, we are the solution.</p>
-        <p><tone rhetoric="appeal to past">Our Founders understood that well, and gave us a
+        <p><tone rhetoric="appeal_to_past">Our Founders understood that well, and gave us a
                 democracy strong enough to endure for centuries, flexible enough to face our common
                 challenges and advance our common dreams in each new day</tone>.</p>
         <p><value type="progress">As times change, so Government must change. We need a new
@@ -91,7 +91,7 @@
                 America</value>.</p>
         <p>The challenge of our past remains the challenge of our future: Will we be one nation, one
             people, with one common destiny—or not? Will we all come together, or come apart?</p>
-        <p><policy civil_rights="civil rights">The divide of race has been America’s constant
+        <p><policy civil_rights="race">The divide of race has been America’s constant
                 curse</policy>. <policy immigration="general">And each new wave of immigrants gives
                 new targets to old prejudices</policy>. <value type="equality">Prejudice and
                 contempt, cloaked in the pretense of religious or political convictions, are no
@@ -112,9 +112,9 @@
         <p>As this new era approaches, we can already see its broad outlines. Ten years ago, the
             Internet was the mystical province of physicists; today, it is a commonplace
             encyclopedia for millions of schoolchildren. <value type="science">Scientists now are
-                decoding the blueprint of human life</value>. <policy health="public health">Cures
+                decoding the blueprint of human life</value>. <policy health="public_health">Cures
                 for our most feared illnesses seem close at hand</policy>.</p>
-        <p><policy foreign="intervention">The world is no longer divided into two hostile camps;
+        <p><policy foreign="internationalism">The world is no longer divided into two hostile camps;
                 instead, now we are building bonds with nations that once were our adversaries.
                 Growing connections of commerce and culture give us a chance to lift the fortunes
                 and spirits of people the world over</policy>. <tone emotion="optimistic">And for
@@ -138,22 +138,22 @@
         <p>Our streets will echo again with the laughter of our children, <value type="security"
                 >because no one will try to shoot them or sell them drugs anymore</value>. <policy
                 economy="jobs">Everyone who can work will work, with today’s permanent underclass
-                part of tomorrow’s growing middle class</policy>. <policy health="public health">New
+                part of tomorrow’s growing middle class</policy>. <policy health="public_health">New
                 miracles of medicine at last will reach not only those who can claim care
                 now</policy>, <value type="equality">but the children and hard-working families too
                 long denied</value>.</p>
-        <p><policy foreign="intervention">We will stand mighty for peace and for freedom and
+        <p><policy foreign="internationalism">We will stand mighty for peace and for freedom and
                 maintain a strong defense against terror and destruction. Our children will sleep
                 free from the threat of nuclear, chemical, or biological weapons</policy>. <policy
                 economy="industry">Ports and airports, farms and factories will thrive with trade
                 and innovation and ideas</policy>. <tone emotion="pride">And the world’s greatest
-                democracy</tone> will <policy foreign="intervention">lead a whole world of
+                democracy</tone> will <policy foreign="internationalism">lead a whole world of
                 democracies</policy>.</p>
         <p>Our land of new promise will be a Nation that meets its obligations: <policy
                 economy="budget">A Nation that balances its budget</policy>, but never loses the
             balance of its values.</p>
-        <p>A nation where our <policy health="health care">grandparents have secure retirement and
-                health care</policy>, and <tone rhetoric="appeal to future">their grandchildren know
+        <p>A nation where our <policy health="health_care">grandparents have secure retirement and
+                health care</policy>, and <tone rhetoric="appeal_to_future">their grandchildren know
                 we have made the reforms necessary to sustain those benefits for their time</tone>.
                 <tone emotion="pride">A Nation that fortifies the world’s most productive
                 economy</tone>, <policy environment="preservation">even as it protects the great
@@ -167,7 +167,7 @@
                 progress we have made, and the greatest progress we have yet to make, is in the
                 human heart</value>. In the end, all the world’s wealth and a thousand armies are no
             match for the strength and decency of the human spirit.</p>
-        <p><tone rhetoric="appeal to past">Thirty-four years ago, the man whose life we celebrate
+        <p><tone rhetoric="appeal_to_past">Thirty-four years ago, the man whose life we celebrate
                 today spoke to us down there, at the other end of this Mall, in words that moved the
                 conscience of a Nation. Like a prophet of old, he told of his dream that one day
                 America would rise up and treat all its citizens as equals before the law and in the
@@ -196,11 +196,11 @@
             us shape the hope of this day into the noblest chapter in our history. <value
                 type="unity">Yes, let us build our bridge—a bridge wide enough and strong enough for
                 every American to cross over to a blessed land of new promise</value>. <tone
-                rhetoric="appeal to future">May those generations whose faces we cannot yet see,
+                rhetoric="appeal_to_future">May those generations whose faces we cannot yet see,
                 whose names we may never know, say of us here that we led our beloved land into a
                 new century with the American dream alive for all her children</tone>, <value
                 type="unity">with the American promise of a more perfect Union a reality for all her
-                people</value>, <policy foreign="intervention">with America’s bright flame of
+                people</value>, <policy foreign="internationalism">with America’s bright flame of
                 freedom spreading throughout all the world</policy>.</p>
         <p>From the height of this place and the summit of this century, let us go forth. <value
                 type="religion">May God “strengthen our hands for the good work ahead”—and always,

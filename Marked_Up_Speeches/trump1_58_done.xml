@@ -91,7 +91,7 @@
                 foreign="isolationism">we will bring back our borders,</policy>
             <value type="restoration">we will bring back our wealth, we will bring back our
                 dreams.</value> We will bring new roads and high roads and bridges and tunnels and
-            railways all across our wonderful nation. <policy welfare="anti welfare">We will get our
+            railways all across our wonderful nation. <policy welfare="anti_welfare">We will get our
                 people off welfare and back to work – rebuilding our country with American hands and
                 American labour</policy>. <policy foreign="isolationism">We will follow two simple
                 rules – buy American and hire American</policy>.</p>
@@ -119,7 +119,7 @@
                 and fight and spirit of America</value>. <tone emotion="optimistic">We will not
                 fail, our country will thrive and prosper again.</tone> We stand at the birth of a
             new millennium, ready to <value type="science">unlock the mysteries of space</value>,
-                <policy health="public health">to free the earth from the miseries of
+                <policy health="public_health">to free the earth from the miseries of
                 disease</policy>, <policy economy="industry">to harvest the energies, industries and
                 technologies of tomorrow</policy>. <tone emotion="pride">A new national pride will
                 stir ourselves</tone>, lift our sights and <value type="unity">heal our

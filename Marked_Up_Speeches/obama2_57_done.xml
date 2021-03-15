@@ -22,7 +22,7 @@
                 or the origins of our names</value>. <value type="patriotism">What makes us
                 exceptional--what makes us American</value>--is our allegiance to an idea,
             articulated in a declaration made more than two centuries ago:</p>
-        <p><tone rhetoric="appeal to the past">We hold these truths to be self-evident</tone>,
+        <p><tone rhetoric="appeal_to_past">We hold these truths to be self-evident</tone>,
                 <value type="equality">that all men are created equal</value>, that they are endowed
             by their <value type="religion">Creator</value> with certain unalienable Rights, that
             among these are Life, Liberty and the pursuit of Happiness.</p>
@@ -30,7 +30,7 @@
             realities of our time, for history tells us that while these truths may be self-evident,
             they have never been self-executing; that while <value type="religion">freedom is a gift
                 from God it must be secured by His people here on Earth</value>.</p>
-        <p><tone rhetoric="appeal to past">The patriots of 1776 did not fight to replace the tyranny
+        <p><tone rhetoric="appeal_to_past">The patriots of 1776 did not fight to replace the tyranny
                 of a king with the privileges of a few or the rule of a mob</tone>. They gave to us
             a republic, a government of and by and for the people, entrusting each generation to
             keep safe our founding creed. For more than 200 years, we have. Through blood drawn by
@@ -40,7 +40,7 @@
                 forward together</value>. <policy economy="commerce">Together, we determined that a
                 modern economy requires railroads and highways to speed travel and
             commerce</policy>; <policy education="schools">schools and colleges to train our
-                workers</policy>. Together, we discovered <policy economy="free market">that a free
+                workers</policy>. Together, we discovered <policy economy="free_market">that a free
                 market only thrives when there are rules to ensure competition and fair
                 play</policy>. Together, we resolve that <value type="security">a great nation must
                 care for the vulnerable and protect its people from life's worst hazards and
@@ -57,7 +57,7 @@
                 soldiers could have met the forces of fascism or communism with muskets and
                 militias</value>. No single person can train all the <policy education="teachers"
                 >math and science teachers we will need</policy> to <tone
-                rhetoric="appeal to future">equip our children for the future</tone> or<policy
+                rhetoric="appeal_to_future">equip our children for the future</tone> or<policy
                 economy="jobs"> build the roads and networks and research labs that will bring new
                 jobs to our shores</policy>. Now, more than ever, we must do these things <value
                 type="unity">together as one Nation and one people</value>.</p>
@@ -90,7 +90,7 @@
             American, that is what this moment requires. That is what will give real meaning to our
             creed.</p>
         <p>We, the people, <value type="equality">still believe that every citizen deserves a basic
-                measure of security and dignity</value>. <policy health="health care">We must make
+                measure of security and dignity</value>. <policy health="health_care">We must make
                 the hard choices to reduce the cost of health care and the size of our
                 deficit</policy>. But we reject the belief that America must choose between caring
             for the generation that built this country and investing in the generation that will
@@ -100,17 +100,17 @@
                 turn</tone>. <value type="equality">We do not believe, in this country, freedom is
                 reserved for the lucky or happiness for the few</value>. We recognize that no matter
             how responsibly we live our lives, any one of us, at any time, may face a job loss or a
-            sudden illness or a home swept away in a terrible storm. <policy health="health care"
+            sudden illness or a home swept away in a terrible storm. <policy health="health_care"
                 >The commitments we make to each other, through Medicare and Medicaid and Social
                 Security</policy>, these things do not sap our Nation; they strengthen us.</p>
         <p>They do not make us a nation of takers; they free us to take the risks that make this
             country great.</p>
         <p>We, the people, still believe our obligations as Americans are not just to ourselves but
-            to all posterity. <policy environment="climate change">We will respond to the threat of
-                climate change</policy>, knowing the <tone rhetoric="appeal to future">failure to do
+            to all posterity. <policy environment="climate_change">We will respond to the threat of
+                climate change</policy>, knowing the <tone rhetoric="appeal_to_future">failure to do
                 so would betray our children and future generations</tone>.</p>
         <p>Some may still deny the overwhelming judgment of science, but none can avoid the <policy
-                environment="climate change">devastating impact of raging fires and crippling
+                environment="climate_change">devastating impact of raging fires and crippling
                 drought and more powerful storms. The path toward sustainable energy sources will be
                 long and sometimes difficult, but America cannot resist this transition; we must
                 lead it</policy>. <policy economy="jobs">We cannot cede to other Nations the
@@ -119,7 +119,7 @@
                 environment="preservation">national treasure, our forests and waterways, our
                 croplands and snow-capped peaks. That is how we will preserve our planet</policy>,
                 <value type="religion">commanded to our care by God</value>. <tone
-                rhetoric="appeal to past">That is what will lend meaning to the creed our Fathers
+                rhetoric="appeal_to_past">That is what will lend meaning to the creed our Fathers
                 once declared</tone>.</p>
         <p>We, the people, still believe that <policy military="war">enduring security and lasting
                 peace do not require perpetual war. Our brave men and women in uniform, tempered by
@@ -146,13 +146,13 @@
             requires the constant advance of those principles that our common creed describes:
             tolerance and opportunity, human dignity and justice.</p>
         <p>We, the people, declare today that the most evident of truths, <value type="equality"
-                >that all of us are created equal</value>, <tone rhetoric="appeal to past">is the
+                >that all of us are created equal</value>, <tone rhetoric="appeal_to_past">is the
                 star that guides us still, just as it guided our forebears through Seneca Falls and
                 Selma and Stonewall</tone>, just as it guided all those men and women, sung and
             unsung, who left footprints along this great Mall to <value type="religion">hear a
                 preacher say we cannot walk alone</value>, to hear a ``King'' proclaim that our
             individual freedom is inextricably bound to the freedom of every soul on Earth.</p>
-        <p>It is now our generation's task to <tone rhetoric="appeal to past">carry on what those
+        <p>It is now our generation's task to <tone rhetoric="appeal_to_past">carry on what those
                 pioneers began</tone>, <policy civil_rights="feminism">for our journey is not
                 complete until our wives, our mothers, and daughters can earn a living equal to
                 their efforts</policy>. <policy civil_rights="lgbt">Our journey is not complete
@@ -161,7 +161,7 @@
                 the love we commit to one another must be equal as well</value>.</p>
         <p><value type="democracy">Our journey is not complete until no citizen is forced to wait
                 for hours to exercise the right to vote</value>. Our journey is not complete until
-            we find a better way to <policy immigration="pro immigration">welcome the striving,
+            we find a better way to <policy foreign="pro_immigration">welcome the striving,
                 hopeful immigrants who still see America as a land of opportunity; until bright
                 young students and engineers are enlisted in our workforce rather than expelled from
                 our country</policy>.</p>
@@ -179,7 +179,7 @@
             We cannot mistake absolutism for principle or substitute spectacle for politics or treat
             name-calling as reasoned debate. <value type="action">We must act, knowing our work will
                 be imperfect. We must act</value>, knowing today's victories will be only partial
-            and that <tone rhetoric="appeal to future">it will be up to those who stand here in 4
+            and that <tone rhetoric="appeal_to_future">it will be up to those who stand here in 4
                 years and 40 years and 400 years hence to advance the timeless spirit once conferred
                 to us in a spare Philadelphia hall</tone>.</p>
         <p>My fellow Americans, the oath I have sworn before you today, similar to the one recited
@@ -187,7 +187,7 @@
             and country, not party or faction, and we must faithfully execute that pledge during the
             duration of our service. But the words I spoke today are not so different from the oath
             that is taken each time a <policy military="soldiers">soldier signs up for duty</policy>
-            or <policy immigration="pro immigration">an immigrant realizes her dream</policy>. My
+            or <policy foreign="pro_immigration">an immigrant realizes her dream</policy>. My
             oath is not so different from the pledge we all make to the <tone emotion="pride">flag
                 that waves above and that fills our hearts with pride</tone>. They are the words of
             citizens and they represent our greatest hope.</p>

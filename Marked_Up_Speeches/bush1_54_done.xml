@@ -37,7 +37,7 @@
         <p>Americans are called to enact this promise in our lives and in our laws. And though our
             Nation has sometimes halted, and sometimes delayed, we must follow no other course.</p>
         <p>Through much of the last century, <value type="democracy">America’s faith in freedom and
-                democracy was a rock in a raging sea</value>. <policy foreign="intervention">Now
+                democracy was a rock in a raging sea</value>. <policy foreign="internationalism">Now
                 it is a seed upon the wind, taking root in many nations</policy>.</p>
         <p><value type="democracy">Our democratic faith is more than the creed of our country, it is
                 the inborn hope of our humanity; an ideal we carry but do not own, a trust we bear
@@ -62,7 +62,7 @@
                 by ideals that move us beyond our backgrounds, lift us above our interests, and
                 teach us what it means to be citizens</value>. Every child
                 must be taught these principles. Every citizen must uphold them. <policy
-                immigration="pro immigration">And every immigrant, by embracing these ideals, makes our country
+                immigration="pro_immigration">And every immigrant, by embracing these ideals, makes our country
                 more, not less, American</policy>.</p>
         <p><value type="civility">Today we affirm a new commitment to live out our Nation’s promise
                 through civility, courage, compassion, and character</value>.</p>
@@ -72,8 +72,8 @@
                 fair dealing and forgiveness</value>.</p>
         <p>Some seem to believe that our politics can afford to be petty because, in a time of
             peace, the stakes of our debates appear small. But the stakes, for America, are never
-            small. <policy foreign="intervention">If our country does not lead the cause of
-                freedom, it will not be led</policy>. <tone rhetoric="appeal to future">If we do not turn the
+            small. <policy foreign="internationalism">If our country does not lead the cause of
+                freedom, it will not be led</policy>. <tone rhetoric="appeal_to_future">If we do not turn the
                 hearts of children toward knowledge and character, we will lose their gifts and
                 undermine their idealism</tone>. <policy economy="general">If we permit our economy
                 to drift and decline, the vulnerable will suffer most</policy>.</p>
@@ -82,15 +82,15 @@
                 over chaos. And this commitment, if we keep it, is a way to shared
                 accomplishment</value>.</p>
         <p>America, at its best, is also courageous.</p>
-        <p><tone rhetoric="appeal to past">Our national courage has been clear in times of
+        <p><tone rhetoric="appeal_to_past">Our national courage has been clear in times of
                 depression and war, when defeating common dangers defined our common good. Now we
                 must choose if the example of our fathers and mothers will inspire us or condemn
-                us</tone>. <tone rhetoric="appeal to future">We must show courage in a time of
+                us</tone>. <tone rhetoric="appeal_to_future">We must show courage in a time of
                 blessing by confronting problems instead of passing them onto future
                 generations</tone>.</p>
         <p><policy education="schools">Together we will reclaim America’s schools, before ignorance and apathy claim more young lives</policy>. <policy
-                health="health care">We will reform Social Security and Medicare</policy>, <tone
-                rhetoric="appeal to future">sparing our children from struggles we have the power to
+                health="health_care">We will reform Social Security and Medicare</policy>, <tone
+                rhetoric="appeal_to_future">sparing our children from struggles we have the power to
                 prevent</tone>. <policy economy="tax">And we will reduce taxes, to recover the
                 momentum of our economy and reward the efforts and enterprise of working
                 Americans</policy>.</p>
@@ -99,7 +99,7 @@
         <p><policy military="war">We will confront weapons of mass destruction, so that a new century is
                 spared new horrors</policy>.</p>
         <p><value type="democracy">The enemies of liberty and our country should make no
-                mistake</value>, <policy foreign="intervention">America remains engaged in the world,
+                mistake</value>, <policy foreign="internationalism">America remains engaged in the world,
                 by history and by choice, shaping a balance of power that favors freedom. We will
                 defend our allies and our interests. We will show purpose without arrogance. We will
                 meet aggression and bad faith with resolve and strength. And to all nations, we will
@@ -107,7 +107,7 @@
         <p>America, at its best, is compassionate.</p>
         <p>In the quiet of American conscience, we know that <value type="equality">deep, persistent
                 poverty is unworthy of our Nation’s promise</value>. <tone
-                rhetoric="appeal to future">And whatever our views of its cause, we can agree that
+                rhetoric="appeal_to_future">And whatever our views of its cause, we can agree that
                 children at risk are not at fault</tone>. <value type="religion">Abandonment and
                 abuse are not acts of God; they are failures of love.</value></p>
         <p><policy prison="order">And the proliferation of prisons, however necessary</policy>,
@@ -116,7 +116,7 @@
                 strangers, they are citizens; not problems, but priorities</value>. And all of us
             are diminished when any are hopeless.</p>
         <p>Government has great responsibilities, for <value type="security">public safety</value>
-            and <policy health="public health">public health</policy>, <policy civil_rights="civil rights">for civil
+            and <policy health="public_health">public health</policy>, <policy civil_rights="civil_rights">for civil
                 rights</policy> and <policy education="schools">common schools</policy>. Yet compassion
             is the work of a nation, not just a government. And some needs and hurts are so deep,
             they will only <value type="religion">respond to a mentor’s touch or a pastor’s prayer.
@@ -153,12 +153,12 @@
             spirit of citizenship is missing, no government program can replace it. When this spirit
             is present, no wrong can stand against it.</p>
         <p>
-            <tone rhetoric="appeal to past">After the Declaration of Independence was signed,
+            <tone rhetoric="appeal_to_past">After the Declaration of Independence was signed,
                 Virginia statesman John Page wrote to Thomas Jefferson:</tone>
         </p>
         <p>We know the race is not to the swift nor the Battle to the Strong. Do you not think an
             Angel rides in the Whirlwind and directs this Storm?</p>
-        <p><tone rhetoric="appeal to past">Much time has passed since Jefferson arrived for his
+        <p><tone rhetoric="appeal_to_past">Much time has passed since Jefferson arrived for his
                 inauguration. The years and changes accumulate, but the themes of this day he would
                 know: our Nation’s grand story of courage and its simple dream of dignity</tone>. We
             are not the story’s author, who fills time and eternity with His purpose. His purpose is

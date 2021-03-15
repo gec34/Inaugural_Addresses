@@ -22,7 +22,7 @@
       rising tides of prosperity and the still waters of peace. Yet, every so often, the oath is
       taken amidst gathering clouds and raging storms. At these moments, America has carried on not
       simply because of the skill or vision of those in high office, but because we, <tone
-        rhetoric="appeal to past">the people, have remained faithful to the ideals of our
+        rhetoric="appeal_to_past">the people, have remained faithful to the ideals of our
         forebearers and true to our founding documents</tone>. So it has been. So it must be with
       this generation of Americans.</p>
     <p><tone emotion="stress">That we are in the midst of crisis is now well understood</tone>.
@@ -31,10 +31,10 @@
         greed and irresponsibility on the part of some</policy>, but also our collective failure to
       make hard choices and <value type="progress">prepare the Nation for a new age</value>. <policy
         economy="jobs">Homes have been lost; jobs shed; businesses shuttered</policy>. <policy
-        health="health care">Our health care is too costly</policy>; <policy education="schools">our
+        health="health_care">Our health care is too costly</policy>; <policy education="schools">our
         schools fail too many</policy>; and each day brings further evidence that the ways we use
       energy <policy military="war">strengthen our adversaries</policy> and <policy
-        environment="climate change">threaten our planet</policy>. <tone emotion="stress">These are
+        environment="climate_change">threaten our planet</policy>. <tone emotion="stress">These are
         the indicators of crisis, subject to data and statistics. Less measurable, but no less
         profound is a sapping of confidence across our land, a nagging fear that America's decline
         is inevitable, that the next generation must lower its sights</tone>.</p>
@@ -57,7 +57,7 @@
         over work or seek only the pleasures of riches and fame. Rather, it has been the risk
         takers, the doers, the makers of things, some celebrated, but more often men and women
         obscure in their labor who have carried us up the long rugged path towards prosperity and
-        freedom</value>. <tone rhetoric="appeal to past">For us, they packed up their few worldly
+        freedom</value>. <tone rhetoric="appeal_to_past">For us, they packed up their few worldly
         possessions and traveled across oceans in search of a new life. For us, they toiled in
         sweatshops and settled the West, endured the lash of the whip, and plowed the hard earth.
         For us, they fought and died in places like Concord and Gettysburg, Normandy and Khe
@@ -79,7 +79,7 @@
         <policy economy="industry">We will build the roads and bridges, the electric grids and
         digital lines that feed our commerce and bind us together</policy>. <value
         type="restoration">We will restore science to its rightful place</value> and wield
-      technology's wonders to <policy health="health care">raise health care's quality and lower its
+      technology's wonders to <policy health="health_care">raise health care's quality and lower its
         cost</policy>. <policy environment="renewable ">We will harness the sun and the winds and
         the soil to fuel our cars</policy> and <policy economy="industry">run our
       factories</policy>. <policy education="schools">And we will transform our schools and colleges
@@ -113,11 +113,11 @@
         expanded by the blood of generations</tone>. Those ideals still light the world, and we will
       not give them up for expedience sake. And so to all the other peoples and governments who are
       watching today, from the grandest capitals to the small village where my father was born, know
-      that <policy foreign="intervention">America is a friend of each nation and every man, woman,
+      that <policy foreign="internationalism">America is a friend of each nation and every man, woman,
         and child who seeks a future of peace and dignity and that we are ready to lead once
         more</policy>.</p>
     <p>Recall that earlier generations <value type="democracy">faced down fascism and
-        communism</value>, <policy foreign="intervention">not just with missiles and tanks, but with
+        communism</value>, <policy foreign="internationalism">not just with missiles and tanks, but with
         sturdy alliances and enduring convictions</policy>. They understood that our power alone
       cannot protect us, nor does it entitle us to do as we please. Instead, they knew that our
       power grows through its prudent use. <tone emotion="pride">Our security emanates from the
@@ -129,7 +129,7 @@
         hard-earned peace in Afghanistan. With old friends and former foes, we will work tirelessly
         to lessen the nuclear threat</policy> and roll back the specter of a <policy
         environment="climate change">warming planet</policy>. <tone emotion="provoking">We will not
-        apologize for our way of life</tone>, <policy foreign="intervention" military="defense">nor
+        apologize for our way of life</tone>, <policy foreign="internationalism">nor
         will we waiver in its defense. And for those who seek to advance their aims by inducing
         terror and slaughtering innocents, we say to you now that our spirit is stronger and cannot
         be broken. You cannot outlast us, and we will defeat you</policy>.</p>
@@ -140,7 +140,7 @@
         segregation and emerged from that dark chapter stronger and more united</tone>, we cannot
       help but <tone emotion="optimistic">believe that the old hatreds shall someday pass</tone>;
       that the lines of tribe shall soon dissolve; that as the world grows smaller, our common
-      humanity shall reveal itself; and that <policy foreign="intervention">America must play its
+      humanity shall reveal itself; and that <policy foreign="internationalism">America must play its
         role in ushering in a new era of peace</policy>.</p>
     <p><policy foreign="alliance">To the Muslim world, we seek a new way forward based on mutual
         interest and mutual respect. To those leaders around the globe who seek to sow conflict or
@@ -149,7 +149,7 @@
     <p>To those who claim power through corruption and deceit and the silencing of dissent, know
       that you are on the wrong side of history, but that we will extend a hand if you are willing
       to unclench your fist.</p>
-    <p><policy foreign="intervention">To the people of poor nations, we pledge to work alongside you
+    <p><policy foreign="internationalism">To the people of poor nations, we pledge to work alongside you
         to make your farms flourish and let clean waters flow; to nourish starved bodies and feed
         hungry minds. And to those nations like ours that enjoy relative plenty, we say we can no
         longer afford indifference to the suffering outside our borders</policy>, <policy
@@ -187,7 +187,7 @@
         and why a man whose father, less than 60 years ago, might not have been served at a local
         restaurant can now stand before you to take a most sacred oath</tone>.</p>
     <p>So let us mark this day with remembrance of who we are and how far we have traveled. <tone
-        rhetoric="appeal to past">In the year of America's birth, in the coldest of months, a small
+        rhetoric="appeal_to_past">In the year of America's birth, in the coldest of months, a small
         band of patriots huddled by dying campfires on the shores of an icy river. The capital was
         abandoned. The enemy was advancing. The snow was stained with blood. At a moment when the
         outcome of our Revolution was most in doubt, the Father of our Nation ordered these words be
@@ -198,7 +198,7 @@
     <p><tone emotion="stress">America: In the face of our common dangers, in this winter of our
         hardship, let us remember these timeless words</tone>. <tone emotion="optimistic">With hope
         and virtue, let us brave once more the icy currents and endure what storms may come</tone>.
-        <tone rhetoric="appeal to past">Let it be said by our children's children that when we were
+        <tone rhetoric="appeal_to_past">Let it be said by our children's children that when we were
         tested, we refused to let this journey end, that we did not turn back, nor did we
         falter</tone>; and with eyes fixed on the horizon and <value type="religion">God's grace
         upon us</value>, we carried forth that great gift of freedom and delivered it safely to

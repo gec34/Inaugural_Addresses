@@ -26,17 +26,17 @@
               <p>There are no words adequate to express my thanks for the great honor that you have
                      bestowed on me. I will do my utmost to be deserving of your trust.</p>
               <p>This is, as Senator Mathias told us, the 50th time that we the people have
-                     celebrated this historic occasion. <tone rhetoric="appeal to past">When the
+                     celebrated this historic occasion. <tone rhetoric="appeal_to_past">When the
                             first President, George Washington, placed his hand upon the Bible, he
                             stood less than a single day’s journey by horseback from raw, untamed
                             wilderness. There were 4 million Americans in a union of 13
                             States</tone>. Today we are 60 times as many in a union of 50 States.
                             <value type="science">We have lighted the world with our
-                            inventions</value>, <policy foreign="intervention">gone to the aid of
-                            mankind wherever in the world there was a cry for help</policy>, <value
-                            type="science">journeyed to the Moon and safely returned</value>. So
-                     much has changed. <value type="unity">And yet we stand together as we did two
-                            centuries ago</value>.</p>
+                            inventions</value>, <policy foreign="internationalism">gone to the aid
+                            of mankind wherever in the world there was a cry for help</policy>,
+                            <value type="science">journeyed to the Moon and safely returned</value>.
+                     So much has changed. <value type="unity">And yet we stand together as we did
+                            two centuries ago</value>.</p>
               <p>When I took this oath four years ago, I did so in a time of economic stress. Voices
                      were raised saying we had to look to our past for the greatness and glory. But
                      we, the present-day Americans, <value type="progress">are not given to looking
@@ -47,14 +47,15 @@
                      created two centuries ago when, for the first time in history, government, the
                      people said, was not our master, it is our servant; its only power that which
                      we the people allow it to have.</p>
-              <p>That system has never failed us, but, for a time, we failed the system. We asked
-                     things of government that government was not equipped to give. We yielded
-                     authority to the National Government that properly belonged to States or to
-                     local governments or to the people themselves. <policy economy="industry">We
-                            allowed taxes and inflation to rob us of our earnings and savings and
-                            watched the great industrial machine that had made us the most
-                            productive people on Earth slow down and the number of unemployed
-                            increase</policy>.</p>
+              <p>That system has never failed us, but, for a time, we failed the system. <policy
+                            government="small_government">We asked things of government that
+                            government was not equipped to give. We yielded authority to the
+                            National Government that properly belonged to States or to local
+                            governments or to the people themselves</policy>. <policy
+                            economy="industry">We allowed taxes and inflation to rob us of our
+                            earnings and savings and watched the great industrial machine that had
+                            made us the most productive people on Earth slow down and the number of
+                            unemployed increase</policy>.</p>
               <p>By 1980, we knew it was time to renew our faith, to strive with all our strength
                      toward the ultimate in individual freedom consistent with an orderly
                      society.</p>
@@ -76,12 +77,13 @@
                             grip</policy>; <policy military="war">when we made sincere efforts at
                             meaningful arms reduction, rebuilding our defenses</policy>, <policy
                             economy="general">our economy</policy>, and <value type="science"
-                            >developing new technologies</value>, and <policy foreign="intervention"
-                            >helped preserve peace in a troubled world</policy>; <value
-                            type="democracy">when Americans courageously supported the struggle for
-                            liberty, self-government, and free enterprise throughout the world, and
-                            turned the tide of history away from totalitarian darkness and into the
-                            warm sunlight of human freedom</value>.</p>
+                            >developing new technologies</value>, and <policy
+                            foreign="internationalism">helped preserve peace in a troubled
+                            world</policy>; <value type="democracy">when Americans courageously
+                            supported the struggle for liberty, self-government, and free enterprise
+                            throughout the world, and turned the tide of history away from
+                            totalitarian darkness and into the warm sunlight of human
+                            freedom</value>.</p>
               <p><tone emotion="optimistic">My fellow citizens, our Nation is poised for
                             greatness</tone>. We must do what we know is right and do it with all
                      our might. Let history say of us, “These were golden years—when the American
@@ -91,7 +93,7 @@
                             >never better than in those times of great challenge when we came
                             together not as Democrats or Republicans, but as Americans united in a
                             common cause</value>.</p>
-              <p><tone rhetoric="appeal to past">Two of our Founding Fathers, a Boston lawyer named
+              <p><tone rhetoric="appeal_to_past">Two of our Founding Fathers, a Boston lawyer named
                             Adams and a Virginia planter named Jefferson, members of that remarkable
                             group who met in Independence Hall and dared to think they could start
                             the world over again, left us an important lesson</tone>. They had
@@ -103,14 +105,15 @@
                      They died on the same day, within a few hours of each other, and that day was
                      the Fourth of July.</p>
               <p>In one of those letters exchanged in the sunset of their lives, Jefferson wrote:
-                     “It carries me back to the times when, beset with difficulties and dangers, we
-                     were fellow laborers in the same cause, struggling for what is most valuable to
-                     man, his right to self-government. Laboring always at the same oar, with some
+                            “<policy government="self_government">It carries me back to the times
+                            when, beset with difficulties and dangers, we were fellow laborers in
+                            the same cause, struggling for what is most valuable to man, his right
+                            to self-government</policy>. Laboring always at the same oar, with some
                      wave ever ahead threatening to overwhelm us, and yet passing harmless…we rode
                      through the storm with heart and hand.”</p>
               <p><value type="unity">Well, with heart and hand, let us stand as one today</value>:
                             <value type="religion">One people under God</value> determined that
-                            <tone rhetoric="appeal to past">our future shall be worthy of our
+                            <tone rhetoric="appeal_to_past">our future shall be worthy of our
                             past</tone>. As we do, we must not repeat the well-intentioned errors of
                      our past. <policy economy="tax">We must never again abuse the trust of working
                             men and women, by sending their earnings on a futile chase after the
@@ -119,17 +122,18 @@
                      you reelected us in 1984 to reverse course.</p>
               <p><policy economy="general">At the heart of our efforts is one idea vindicated by 25
                             straight months of economic growth: Freedom and incentives unleash the
-                            drive and entrepreneurial genius that are the core of human progress. We
-                            have begun to increase the rewards for work, savings, and investment;
-                            reduce the increase in the cost and size of government and its
-                            interference in people’s lives</policy>.</p>
+                            drive and entrepreneurial genius that are the core of human
+                            progress</policy>. <policy government="self_government">We have begun to
+                            increase the rewards for work, savings, and investment; reduce the
+                            increase in the cost and size of government and its interference in
+                            people’s lives</policy>.</p>
               <p><policy economy="tax">We must simplify our tax system, make it more fair, and bring
                             the rates down for all who work and earn</policy>. <value
                             type="progress">We must think anew</value> and <value type="action">move
                             with a new boldness</value>, <value type="equality">so every American
                             who seeks work can find work; so the least among us shall have an equal
                             chance to achieve the greatest things</value>—<policy
-                            health="public health">to be heroes who heal our sick, feed the
+                            health="public_health">to be heroes who heal our sick, feed the
                             hungry</policy>, <policy foreign="peace">protect peace among
                             nations</policy>, and leave this world a better place.</p>
               <p><value type="equality">The time has come for a new American emancipation—a great
@@ -154,7 +158,7 @@
               <p>I will shortly submit a budget to the Congress aimed at freezing government program
                      spending for the next year. Beyond that, we must take further steps to
                      permanently <policy economy="tax">control Government’s power to tax and
-                            spend</policy>. <tone rhetoric="appeal to future">We must act now to
+                            spend</policy>. <tone rhetoric="appeal_to_future">We must act now to
                             protect future generations from Government’s desire to spend its
                             citizens’ money and tax them into servitude when the bills come
                             due</tone>. Let us make it unconstitutional for the Federal Government
@@ -190,8 +194,8 @@
               <p>Today, <value type="religion">we utter no prayer more fervently</value> than the
                      ancient prayer for peace on Earth. Yet history has shown that peace will not
                      come, nor will our freedom be preserved, by good will alone. <policy
-                            foreign="intervention">There are those in the world who scorn our vision
-                            of human dignity and freedom. One nation, the Soviet Union, has
+                            foreign="internationalism">There are those in the world who scorn our
+                            vision of human dignity and freedom. One nation, the Soviet Union, has
                             conducted the greatest military buildup in the history of man, building
                             arsenals of awesome offensive weapons</policy>.</p>
               <p>We have made progress in restoring our defense capability. But much remains to be
@@ -199,11 +203,12 @@
                             type="democracy">that America will meet her responsibilities to remain
                             free</value>, <value type="security">secure</value>, and at peace.</p>
               <p>There is only one way safely and legitimately to reduce the cost of national
-                     security, and that is to reduce the need for it.<policy foreign="intervention">
-                            And this we are trying to do in negotiations with the Soviet Union. We
-                            are not just discussing limits on a further increase of nuclear weapons.
-                            We seek, instead, to reduce their number. We seek the total elimination
-                            one day of nuclear weapons from the face of the Earth</policy>.</p>
+                     security, and that is to reduce the need for it.<policy
+                            foreign="internationalism"> And this we are trying to do in negotiations
+                            with the Soviet Union. We are not just discussing limits on a further
+                            increase of nuclear weapons. We seek, instead, to reduce their number.
+                            We seek the total elimination one day of nuclear weapons from the face
+                            of the Earth</policy>.</p>
               <p>Now, for decades, we and the Soviets have lived under the threat of mutual assured
                      destruction; if either resorted to the use of nuclear weapons, the other could
                      retaliate and destroy the one who had started it. Is there either logic or
@@ -243,7 +248,7 @@
                      journey, we think of those who traveled before us. We stand together again at
                      the steps of this symbol of our democracy—or we would have been standing at the
                      steps if it hadn’t gotten so cold. Now we are standing inside this symbol of
-                     our democracy. <tone rhetoric="appeal to past">Now we hear again the echoes of
+                     our democracy. <tone rhetoric="appeal_to_past">Now we hear again the echoes of
                             our past: a general falls to his knees in the hard snow of Valley Forge;
                             a lonely President paces the darkened halls, and ponders his struggle to
                             preserve the Union; the men of the Alamo call out encouragement to each

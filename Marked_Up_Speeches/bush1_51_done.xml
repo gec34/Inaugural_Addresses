@@ -22,10 +22,10 @@
         <p>There is a man here who has earned a lasting place in our hearts and in our history.
             President Reagan, on behalf of our Nation, I thank you for the wonderful things that you
             have done for America.</p>
-        <p><tone rhetoric="appeal to past">I have just repeated word for word the oath taken by
+        <p><tone rhetoric="appeal_to_past">I have just repeated word for word the oath taken by
                 George Washington 200 years ago</tone>, and <value type="religion">the Bible on
                 which I placed my hand is the Bible on which he placed his</value>. <tone
-                rhetoric="appeal to past">It is right that the memory of Washington be with us
+                rhetoric="appeal_to_past">It is right that the memory of Washington be with us
                 today, not only because this is our Bicentennial Inauguration, but because
                 Washington remains the Father of our Country. And he would, I think, be gladdened by
                 this day; for today is the concrete expression of a stunning fact: our continuity
@@ -54,7 +54,7 @@
                 sit and wait, hoping the mists will lift and reveal the right path. But this is a
                 time when the future seems a door you can walk right through into a room called
                 tomorrow</value>.</p>
-        <p><policy foreign="intervention">Great nations of the world are moving toward democracy
+        <p><policy foreign="internationalism">Great nations of the world are moving toward democracy
                 through the door to freedom. Men and women of the world move toward free markets
                 through the door to prosperity. The people of the world agitate for free expression
                 and free thought</policy> through <value type="democracy">the door to the moral and
@@ -81,7 +81,7 @@
             only to leave our children a bigger car, a bigger bank account. We must hope to give
             them a sense of what it means to be a loyal friend, a loving parent, a citizen who
             leaves his home, his neighborhood and town better than he found it. <tone
-                rhetoric="appeal to future">What do we want the men and women who work with us to
+                rhetoric="appeal_to_future">What do we want the men and women who work with us to
                 say when we are no longer there</tone>? That we were more driven to succeed than
             anyone around us? Or that we stopped to ask if a sick child had gotten better, and
             stayed a moment there to trade a word of friendship?</p>
@@ -127,7 +127,7 @@
         <p>We need a new engagement, too, between the Executive and the Congress. The challenges
             before us will be thrashed out with the House and the Senate. We must bring the Federal
             budget into balance. <value type="unity">And we must ensure that America stands before
-                the world united</value>, strong, <policy military="war">at peace</policy>, <policy
+                the world united</value>, strong, <policy military="peace">at peace</policy>, <policy
                 economy="general">and fiscally sound</policy>. But, of course, things may be
             difficult. <value type="unity">We need compromise; we have had dissension. We need
                 harmony; we have had a chorus of discordant voices</value>.</p>
@@ -135,7 +135,7 @@
             have seen the hard looks and heard the statements in which not each other’s ideas are
             challenged, but each other’s motives. <value type="unity">And our great parties have too
                 often been far apart and untrusting of each other</value>. <tone
-                rhetoric="appeal to past">It has been this way since Vietnam. That war cleaves us
+                rhetoric="appeal_to_past">It has been this way since Vietnam. That war cleaves us
                 still</tone>. But, friends, that war began in earnest a quarter of a century ago;
             and surely the statute of limitations has been reached. This is a fact: The final lesson
             of Vietnam is that no great nation can long afford to be sundered by a memory. A new
@@ -151,17 +151,17 @@
             produce. <value type="action">The American people await action</value>. They didn’t send
             us here to bicker. They ask us to rise above the merely partisan. <value type="unity"
                 >“In crucial things, unity”—and this, my friends, is crucial</value>.</p>
-        <p><policy foreign="intervention">To the world, too, we offer new engagement and a renewed
+        <p><policy foreign="internationalism">To the world, too, we offer new engagement and a renewed
                 vow</policy>: We will stay strong to protect the peace. The “offered hand” is a
             reluctant fist; but once made, strong, and can be used with great effect. <policy
-                foreign="intervention">There are today Americans who are held against their will in
+                foreign="internationalism">There are today Americans who are held against their will in
                 foreign lands, and Americans who are unaccounted for. Assistance can be shown here,
                 and will be long remembered</policy>. Good will begets good will. Good faith can be
             a spiral that endlessly moves on.</p>
         <p>Great nations like great men must keep their word. When America says something, America
             means it, whether a treaty or an agreement or a vow made on marble steps. We will always
             try to speak clearly, for candor is a compliment, but subtlety, too, is good and has its
-            place. <policy foreign="intervention">While keeping our alliances and friendships around
+            place. <policy foreign="internationalism">While keeping our alliances and friendships around
                 the world strong, ever strong, we will continue the new closeness with the Soviet
                 Union, consistent both with our security and with progress</policy>. <tone
                 emotion="optimistic">One might say that our new relationship in part reflects the

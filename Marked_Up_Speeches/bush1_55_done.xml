@@ -23,7 +23,7 @@
                 which we live</tone>, and determined to fulfill the oath that I have sworn and you
             have witnessed.</p>
         <p>At this second gathering, our duties are defined not by the words I use, but by the
-            history we have seen together. For a half century, <policy foreign="intervention"
+            history we have seen together. For a half century, <policy foreign="internationalism"
                 >America defended its own freedom by standing watch on distant borders.</policy>
             <value type="democracy">After the shipwreck of communism came years of relative quiet,
                 years of repose, years of sabbatical—and then there came a day of fire.</value></p>
@@ -35,21 +35,21 @@
             <tone emotion="provoking">There is only one force of history that can break the reign of
                 hatred and resentment and expose the pretensions of tyrants and reward the hopes of
                 the decent and tolerant</tone>, and that is the force of human freedom.</p>
-        <p>We are led, by events and common sense, to one conclusion: <policy foreign="intervention"
+        <p>We are led, by events and common sense, to one conclusion: <policy foreign="internationalism"
                 >The survival of liberty in our land increasingly depends on the success of liberty
                 in other lands</policy>. <tone emotion="provoking">The best hope for peace in our
-                world</tone> is the <policy foreign="intervention">expansion of freedom in all the
+                world</tone> is the <policy foreign="internationalism">expansion of freedom in all the
                 world.</policy></p>
         <p>America’s vital interests and our deepest beliefs are now one. From the day of our
             founding, <value type="equality">we have proclaimed that every man and woman on this
                 Earth has rights and dignity and matchless value</value> because they <value
                 type="religion">bear the image of the Maker of heaven and Earth</value>.</p>
-        <p>Across the generations we have proclaimed the imperative of self-government, because no
-            one is fit to be a master, and no one deserves to be a slave.</p>
+        <p><policy government="self_government">Across the generations we have proclaimed the imperative of self-government, because no
+            one is fit to be a master, and no one deserves to be a slave</policy>.</p>
         <p>Advancing these ideals is the mission that created our Nation. <tone emotion="pride">It
                 is the honorable achievement of our fathers</tone>. <tone emotion="stress">Now it is
                 the urgent requirement of our Nation’s security, and the calling of our time</tone>.
-                <policy foreign="intervention">So it is the policy of the United States to seek and
+                <policy foreign="internationalism">So it is the policy of the United States to seek and
                 support the growth of democratic movements and institutions in every nation and
                 culture, with the ultimate goal of ending tyranny in our world.</policy></p>
         <p>This is not primarily the task of arms, <policy military="war">though we will defend
@@ -59,7 +59,7 @@
             institutions that arise may reflect customs and traditions very different from our own.
                 <policy foreign="isolationist">America will not impose its own style of government
                 on the unwilling.</policy>
-            <policy foreign="intervention">Our goal instead is to help others find their own voice,
+            <policy foreign="internationalism">Our goal instead is to help others find their own voice,
                 attain their own freedom, and make their own way.</policy></p>
         <p>The great objective of <tone emotion="provoking">ending tyranny</tone> is the
             concentrated work of generations. <tone emotion="stress">The difficulty of the task is
@@ -68,7 +68,7 @@
                 and we will use it confidently in freedom’s cause.</tone></p>
         <p><policy terrorism="foreign">My most solemn duty is to protect this Nation and its people
                 from further attacks and emerging threats.</policy> Some have unwisely chosen to
-            test America’s resolve, and have found it firm. <policy foreign="intervention">We will
+            test America’s resolve, and have found it firm. <policy foreign="internationalism">We will
                 persistently clarify the choice before every ruler and every nation: The moral
                 choice between oppression, which is always wrong, and freedom, which is eternally
                 right. America will not pretend that jailed dissidents prefer their chains, or that
@@ -87,19 +87,19 @@
             Eventually, the call of freedom comes to every mind and every soul. <tone
                 emotion="provoking"> We do not accept the existence of permanent tyranny because we
                 do not accept the possibility of permanent slavery.</tone></p>
-        <p><policy foreign="intervention">Liberty will come to those who love it. Today, America
+        <p><policy foreign="internationalism">Liberty will come to those who love it. Today, America
                 speaks anew to the peoples of the world. All who live in tyranny and hopelessness
                 can know the United States will not ignore your oppression, or excuse your
                 oppressors. When you stand for your liberty, we will stand with you.</policy></p>
-        <p><policy foreign="intervention">Democratic reformers facing repression, prison, or exile
+        <p><policy foreign="internationalism">Democratic reformers facing repression, prison, or exile
                 can know America sees you for who you are, the future leaders of your free
                 country.</policy> The rulers of outlaw regimes can know that <tone
-                rhetoric="appeal to past">we still believe as Abraham Lincoln did: “Those who deny
+                rhetoric="appeal_to_past">we still believe as Abraham Lincoln did: “Those who deny
                 freedom to others deserve it not for themselves; and, under the rule of a just God,
                 cannot long retain it.”</tone></p>
         <p>The leaders of governments with long habits of control need to know: To serve your people
             you must learn to trust them. Start on this journey of progress and justice, and <policy
-                foreign="intervention">America will walk at your side. All the allies of the United
+                foreign="internationalism">America will walk at your side. All the allies of the United
                 States can know we honor your friendship, we rely on your counsel, and we depend on
                 your help</policy>. Division among free nations is a primary goal of freedom’s
             enemies. <value type="democracy">The concerted effort of free nations to promote
@@ -113,7 +113,7 @@
                 efforts, we have lit a fire as well—a fire in the minds of men. It warms those who
                 feel its power, it burns those who fight its progress, and one day this untamed fire
                 of freedom will reach the darkest corners of our world.</tone></p>
-        <p><policy foreign="intervention">A few Americans have accepted the hardest duties in this
+        <p><policy foreign="internationalism">A few Americans have accepted the hardest duties in this
                 cause—in the quiet work of intelligence and diplomacy; the idealistic work of
                 helping raise up free governments; the dangerous and necessary work of fighting our
                 enemies.</policy>
@@ -138,15 +138,15 @@
                 our country, we will bring the highest standards to our schools, and build an
                 ownership society.</policy></p>
         <p><policy economy="property">We will widen the ownership of homes and businesses,
-                retirement savings</policy>, and <policy health="health care">health
+                retirement savings</policy>, and <policy health="health_care">health
                 insurance</policy>, preparing our people for the challenge of life in a free
             society. By making every citizen an agent of his or her own destiny, we will give our
             fellow Americans greater freedom from want and fear, and make our society more
             prosperous and just and equal.</p>
         <p>In America’s ideal of freedom, the public interest depends on private character—on
             integrity, <value type="equality">and tolerance towards others</value>, and the rule of
-            conscience in our own lives. Self-government relies, in the end, on the governing of the
-            self. That edifice of character is built in families, supported by communities with
+            conscience in our own lives. <policy government="self_government">Self-government relies, in the end, on the governing of the
+                self</policy>. That edifice of character is built in families, supported by communities with
             standards, and sustained in our national life by the <value type="religion">truths of
                 Sinai, the Sermon on the Mount, the words of the Koran, and the varied faiths of our
                 people</value>. Americans move forward in every generation by reaffirming all that
@@ -161,7 +161,7 @@
                 cannot carry the message of freedom and the baggage of bigotry at the same
                 time</value>. From the perspective of a single day, including this day of
             dedication, the issues and questions before our country are many. <tone
-                rhetoric="appeal to future">From the viewpoint of centuries, the questions that come
+                rhetoric="appeal_to_future">From the viewpoint of centuries, the questions that come
                 to us are narrowed and few. Did our generations advance the cause of freedom</tone>?
             And did our character bring credit to that cause?</p>
         <p><value type="unity">These questions that judge us also unite us, because Americans of
@@ -180,15 +180,15 @@
                 type="religion">God moves and chooses as He wills</value>. <tone
                 emotion="optimistic">We have confidence because freedom is the permanent hope of
                 mankind, the hunger and dark places, the longing of the soul</tone>. <tone
-                rhetoric="appeal to past">When our Founders declared a new order of the ages, when
+                rhetoric="appeal_to_past">When our Founders declared a new order of the ages, when
                 soldiers died in wave upon wave for a union based on liberty, when citizens marched
                 in peaceful outrage under the banner “Freedom Now,” they were acting on ancient hope
                 that is meant to be fulfilled</tone>. History has an ebb and flow of justice, but
             history also has a visible direction, set by liberty and the Author of Liberty.</p>
-        <p><tone rhetoric="appeal to past">When the Declaration of Independence was first read in
+        <p><tone rhetoric="appeal_to_past">When the Declaration of Independence was first read in
                 public and the Liberty Bell was sounded in celebration, a witness said, “It rang as
                 if it meant something.”</tone> In our time, it means something still. <policy
-                foreign="intervention">America, in this young century, proclaims liberty throughout
+                foreign="internationalism">America, in this young century, proclaims liberty throughout
                 the world, and to all the inhabitants thereof</policy>. Renewed in our
             strength—tested but not weary—<tone emotion="optimistic">we are ready for the greatest
                 achievements in the history of freedom</tone>.</p>

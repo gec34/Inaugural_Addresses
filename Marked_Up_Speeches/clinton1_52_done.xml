@@ -19,7 +19,7 @@
         <p>A spring reborn in the world’s oldest democracy, that brings forth the vision and courage
             to reinvent America.</p>
         <p>
-            <tone rhetoric="appeal to past">When our Founders boldly declared America’s
+            <tone rhetoric="appeal_to_past">When our Founders boldly declared America’s
                 independence</tone> to the world and <value type="religion">our purposes to the
                 Almighty</value>, <value type="progress">they knew America, to endure, would have to
                 change</value>. </p>
@@ -38,7 +38,7 @@
                 the world’s strongest</tone>, <policy economy="business">but is weakened by business
                 failures, stagnant wages</policy>, <value type="equality">increasing inequality, and
                 deep divisions among our own people</value>.</p>
-        <p><tone rhetoric="appeal to past">When George Washington first took the oath I have just
+        <p><tone rhetoric="appeal_to_past">When George Washington first took the oath I have just
                 sworn to uphold, news traveled slowly across the land by horseback and across the
                 ocean by boat</tone>. Now, the sights and sounds of this ceremony are broadcast
             instantaneously to billions around the world.</p>
@@ -62,11 +62,11 @@
         <p><tone emotion="optimistic">Though our challenges are fearsome, so are our strengths.
                 Americans have ever been a restless, questing, hopeful people</tone>. And we must
             bring to our task today the vision and will of those who came before us.</p>
-        <p><tone rhetoric="appeal to past">From our Revolution to the Civil War, to the Great
+        <p><tone rhetoric="appeal_to_past">From our Revolution to the Civil War, to the Great
                 Depression, to the civil rights movement</tone>, <tone emotion="optimistic">our
                 people have always mustered the determination to construct from these crises the
                 pillars of our history</tone>.</p>
-        <p><tone rhetoric="appeal to past">Thomas Jefferson believed that to preserve the very
+        <p><tone rhetoric="appeal_to_past">Thomas Jefferson believed that to preserve the very
                 foundations of our Nation</tone>, <value type="progress">we would need dramatic
                 change from time to time</value>. Well, my fellow Americans, this is our time. Let
             us embrace it.</p>
@@ -84,7 +84,7 @@
                 emotion="optimistic">But it can be done, and done fairly, not choosing sacrifice for
                 its own sake, but for our own sake</tone>. We must provide for our Nation the way a
             family provides for its children.</p>
-        <p><tone rhetoric="appeal to past">Our Founders saw themselves in the light of posterity. We
+        <p><tone rhetoric="appeal_to_past">Our Founders saw themselves in the light of posterity. We
                 can do no less</tone>. Anyone who has ever watched a child’s eyes wander into sleep
             knows what posterity is. Posterity is the world to come—the world for whom we hold our
             ideals, from whom we have borrowed our planet, and to whom we bear sacred
@@ -106,25 +106,25 @@
             reform our politics, <value type="equality">so that power and privilege no longer shout
                 down the voice of the people</value>. Let us put aside personal advantage so that we
             can feel the pain and see the promise of America.</p>
-        <p><tone rhetoric="appeal to past">Let us resolve to make our Government a place for what
+        <p><tone rhetoric="appeal_to_past">Let us resolve to make our Government a place for what
                 Franklin Roosevelt called “bold, persistent experimentation,” a government for our
                 tomorrows, not our yesterdays</tone>.</p>
         <p><tone emotion="provoking">Let us give this Capital back to the people to whom it
                 belongs</tone>.</p>
-        <p><policy foreign="intervention">To renew America, we must meet challenges abroad as well
+        <p><policy foreign="internationalism">To renew America, we must meet challenges abroad as well
                 as at home. There is no longer a clear division between what is foreign and what is
-                domestic</policy>—<policy economy="global economy">the world economy</policy>,
+                domestic</policy>—<policy economy="global_economy">the world economy</policy>,
                 <policy environment="preservation">the world environment</policy>, <policy
-                health="public health">the world AIDS crisis</policy>, <policy military="war">the
+                health="public_health">the world AIDS crisis</policy>, <policy military="war">the
                 world arms race</policy>, they affect us all.</p>
         <p>Today, as an old order passes, the new world is more free but less stable. <tone
                 emotion="stress">Communism’s collapse has called forth old animosities and new
-                dangers</tone>. <policy foreign="intervention">Clearly America must continue to lead
+                dangers</tone>. <policy foreign="internationalism">Clearly America must continue to lead
                 the world we did so much to make</policy>.</p>
         <p>While America rebuilds at home, we will not shrink from the challenges, nor fail to seize
-            the opportunities, of this new world. <policy foreign="intervention">Together with our
+            the opportunities, of this new world. <policy foreign="internationalism">Together with our
                 friends and allies, we will work to shape change, lest it engulf us</policy>.</p>
-        <p><policy foreign="intervention">When our vital interests are challenged, or the will and
+        <p><policy foreign="internationalism">When our vital interests are challenged, or the will and
                 conscience of the international community is defied, we will act—with peaceful
                 diplomacy whenever possible, with force when necessary</policy>. <policy
                 military="soldiers">The brave Americans serving our Nation today in the Persian
@@ -132,7 +132,7 @@
             resolve</policy>.</p>
         <p><tone emotion="pride">But our greatest strength is the power of our ideas, which are
                 still new in many lands. Across the world, we see them embraced—and we
-                rejoice</tone>. <policy foreign="intervention">Our hopes, our hearts, and our hands,
+                rejoice</tone>. <policy foreign="internationalism">Our hopes, our hearts, and our hands,
                 are with those on every continent who are building democracy and freedom. Their
                 cause is America’s cause</policy>.</p>
         <p><value type="progress">The American people have summoned the change we celebrate
