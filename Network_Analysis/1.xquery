@@ -4,7 +4,7 @@ let $filePath := $IA/base-uri()
 for $f in $filePath
 let $fToken := tokenize($f,"/")[last()]
 let $values := $IA[base-uri() = $f]//value/@type ! normalize-space() => distinct-values()
-for $v in $values 
+for $v in $values
 let $policies := $IA[base-uri() = $f][.//value/@type ! normalize-space() = $v]//policy/@* ! name()
 for $p in $policies
-return concat($v ,'&#x9;', $fToken,'&#x9;', $p ),'&#10;')
+return concat($v ,'&#x9;', "value", '&#x9;', $fToken,'&#x9;', $p, '&#x9;', "policy"), '&#10;')
