@@ -2,7 +2,7 @@
 <?xml-model href="../SchemaDraft.rnc" type="application/relax-ng-compact-syntax"?>
 <speech>
     <meta>
-        <name>Joeseph Robinette Biden Jr.</name>
+        <name>Joseph Robinette Biden Jr.</name>
         <den>Roman Catholic</den>
         <class>middle</class>
         <state>Pennsylvania</state>
