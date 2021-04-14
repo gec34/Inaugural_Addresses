@@ -12,19 +12,20 @@
 
 RELEVANT TOPICS
 
-1) Monetary Policy & Finance
-3) Globalization & the World Stage
-5) War & Foreign Policy
-6) Diplomacy & Isolationism
-11) Federalism & States Rights
-20) Conservation, Environmental Policy, Land Ownership
-24) Territorial Expansion
-26) Capitalism vs Communism, National Values
-27) Rule of Law
-28) Colonialism
-29) Slavery
-36) Trade & Budget
-41) Civil Rights
+Monetary Policy & Finance (1)
+Globalization & the World Stage (3)
+War & Foreign Policy (5)
+Diplomacy & Isolationism (6)
+Federalism & States Rights (11)
+Conservation, Environmental Policy, Land Ownership (20)
+Territorial Expansion (24)
+Capitalism vs Communism, National Values (26)
+Rule of Law (27)
+Colonialism (28)
+Slavery (29)
+Defense (35)
+Trade & Budget (36)
+Civil Rights (41)
 
 52) National Crises (Generic)
 
