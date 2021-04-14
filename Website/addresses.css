@@ -68,7 +68,7 @@ a {
     color: white;
     text-decoration: none;
     margin-right: 25px;
-  margin-left: 25px;
+    margin-left: 25px;
 }
 
 .dropbtn {
@@ -115,15 +115,67 @@ div.dropdown {
 }
 
 
-#home {
-    display: block;
+div.home {
     text-align: center;
     position: relative;
     font: 17px georgia;
-    background-color: #810541;
+    background-color: #0000A0;
     color: white;
     padding: 10px;
     margin: 3%;
     opacity: 0.8;
     top: 35px;
+    justify-content: center;
+    margin: 20px auto;
+    margin-bottom: 30px;
+    width: 70%;
+}
+
+div.attributeMenu
+{
+    text-align: left;
+    background: #810541;
+    opacity: 0.8;
+    border-radius: 15px;
+    color: white;
+    padding: 15px;
+    width: 11%;
+    margin-top: 300px;
+    position: fixed;
+
+}
+
+div.metadata
+{
+    text-align: left;
+    background: #810541;
+    opacity: 0.8;
+    border-radius: 15px;
+    color: white;
+    width: 11%;
+    padding: 15px;
+    margin-top: 30px;
+    position: fixed;
+}
+
+ul
+{
+    list-style-type: none;
+    padding-left: 0px;
+
+}
+
+.policy.on {
+
+    color: black;
+}
+
+.value.on {
+
+    color: navy;
+}
+
+.tone.on {
+
+    color: purple;
 }
