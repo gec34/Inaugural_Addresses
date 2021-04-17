@@ -1,17 +1,14 @@
-<?xml version="1.0" standalone="no"?>
-
 <svg 
      version="1.1"
      baseProfile="full"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
-     
      x="0px"
      y="0px"
-     width="1255px"
+     width="750px"
      height="540px"
-     viewBox="0 0 1255 540"
-     >
+     viewBox="0 0 750 540"
+    >
 <title></title>
 <desc>Creator: FreeHEP Graphics2D Driver Producer: org.freehep.graphicsio.svg.SVGGraphics2D Revision Source:  Date: Friday, April 9, 2021 at 3:22:51 PM Eastern Daylight Time</desc>
 <g stroke-dashoffset="0" stroke-linejoin="miter" stroke-dasharray="none" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10">
