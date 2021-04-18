@@ -3,6 +3,10 @@ h3{
     font-size: 36px;
 }
 
+a{
+    margin: 0;
+}
+
 p{
     margin-left: 10%;
     margin-right: 10%;
@@ -10,10 +14,8 @@ p{
 
 a.href{
     text-decoration: underline;
-    margin: 0;
 }
 
 h4{
-    color: white;
-    font-size: 24px
+    font-size: 24px;
 }
