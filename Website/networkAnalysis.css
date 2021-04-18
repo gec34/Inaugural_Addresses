@@ -3,12 +3,11 @@ h3{
     font-size: 36px;
 }
 
-a{
-    text-decoration: underline;
-    margin: 0;
-}
-
 p{
     margin-left: 10%;
     margin-right: 10%;
+}
+
+a.href{
+    text-decoration: underline;
 }
