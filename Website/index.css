@@ -3,8 +3,6 @@ body {
     text-align: center;
     background-color: #808080;
     position: relative;
-    background-attachment: fixed;
-
 }
 
 
@@ -18,44 +16,34 @@ h1 {
     margin-right: 5%;
     padding: 30px;
     box-sizing: border-box;
-    margin: 3%;
     background: #0000A0;
-    opacity: 0.8;
     content: "";
     font-size: 36px;
     overflow: auto;
-    background-attachment: fixed;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
 }
 
 h2 {
-    display: inline-block;
+    color: white;
+    font-family: "Georgia", sans-serif;
+    text-align: center;
     position: relative;
-    display: block;
-    margin: 10px;
-    padding: 10px 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 30px;
+    box-sizing: border-box;
     width: auto;
     white-space: nowrap;
-    text-align: center;
     list-style: none;
     vertical-align: top;
-    box-sizing: border-box;
-    margin: 3%;
     background: #810541;
-    opacity: 0.8;
     content: "";
     font-size: 22px;
-    background-attachment: fixed;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    color: white;
-    box-shadow: 
-    1px 1px 1px 1px #000, 
-1px 1px 1px 1px #fff, 
-0 0 6px 3px #fff;
-    border-radius: 6px;
-    padding-left: 35px;
+    display: inline-block;
+
 }
 
 a {
