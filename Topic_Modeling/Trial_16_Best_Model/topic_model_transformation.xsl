@@ -10,7 +10,7 @@
                 <line>
                     <xsl:variable name="tokenized-line" select="tokenize(., '\t')"/>
                     <xsl:for-each select="$tokenized-line">
-                        <data>
+                        <data topic="{position() - 3}">
                             <xsl:choose>
                                 <xsl:when test="position()=2">
                                     <xsl:value-of
@@ -18,7 +18,7 @@
                                     />
                                 </xsl:when>
                                 <xsl:otherwise>
-                                    <xsl:value-of select="format-number(number(.), '0.00')"/>
+                                    <xsl:value-of select="format-number(number(.), '0.00000')"/>
                                 </xsl:otherwise>
                             </xsl:choose>
                         </data>
