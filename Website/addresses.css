@@ -1,15 +1,9 @@
 body {
     display: block;
     text-align: center;
-    background-image: url(http://dev.obdurodon.org/~egr19/background.jpg);
     background-color: #808080;
     height: 500px;
-    background-position: center;
-    background-size: auto auto;
-    background-size: cover;
-    background-repeat: no-repeat;
-    position: relative;
-    background-attachment: fixed;
+  position: relative;
 
 }
 
@@ -24,51 +18,42 @@ h1 {
     margin-right: 5%;
     padding: 30px;
     box-sizing: border-box;
-    margin: 3%;
     background: #0000A0;
-    opacity: 0.8;
     content: "";
     font-size: 36px;
     overflow: auto;
-    background-attachment: fixed;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
 }
 
 h2 {
-    display: inline-block;
+    color: white;
+    font-family: "Georgia", sans-serif;
+    text-align: center;
     position: relative;
-    display: block;
-    margin: 10px;
-    padding: 10px 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 30px;
+    box-sizing: border-box;
     width: auto;
     white-space: nowrap;
-    text-align: center;
     list-style: none;
     vertical-align: top;
-    box-sizing: border-box;
-    margin: 3%;
-    background: #810541;
-    opacity: 0.8;
+    background: #C41E3A;
     content: "";
     font-size: 22px;
-    background-attachment: fixed;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    color: white;
-    box-shadow: 
-    1px 1px 1px 1px #000, 
-1px 1px 1px 1px #fff, 
-0 0 6px 3px #fff;
-    border-radius: 6px;
-    padding-left: 35px;
+    display: inline-block;
+
+
 }
 
 a {
     color: white;
     text-decoration: none;
     margin-right: 25px;
-    margin-left: 25px;
+  margin-left: 25px;
 }
 
 .dropbtn {
@@ -119,7 +104,7 @@ div.home {
     text-align: center;
     position: relative;
     font: 17px georgia;
-    background-color: #0000A0;
+    background-color: #810541;
     color: white;
     padding: 10px;
     margin: 3%;
@@ -127,8 +112,8 @@ div.home {
     top: 35px;
     justify-content: center;
     margin: 20px auto;
-    margin-bottom: 30px;
-    width: 70%;
+    margin-bottom: 10px;
+    width: 60%;
 }
 
 div.attributeMenu
@@ -138,9 +123,9 @@ div.attributeMenu
     opacity: 0.8;
     border-radius: 15px;
     color: white;
-    padding: 15px;
-    width: 11%;
-    margin-top: 300px;
+    padding: 7px;
+    width: 15%;
+    margin-top: 175px;
     position: fixed;
 
 }
@@ -152,8 +137,8 @@ div.metadata
     opacity: 0.8;
     border-radius: 15px;
     color: white;
-    width: 11%;
-    padding: 15px;
+    width: 15%;
+    padding: 7px;
     margin-top: 30px;
     position: fixed;
 }
@@ -166,16 +151,35 @@ ul
 }
 
 .policy.on {
-
-    color: black;
+    font-weight:bold;
 }
 
-.value.on {
-
-    color: navy;
+.religion.on {
+    font-style:italic;
 }
 
-.tone.on {
 
-    color: purple;
+.economy.on {
+    
+    color:yellow;
+}
+
+.foreign.on {
+    
+    color:red;
+}
+
+.slavery.on {
+    
+    color:orange;
+}
+
+.civil.on {
+    
+    color:fuchsia;
+}
+
+.govt.on {
+    
+    color:lime;
 }

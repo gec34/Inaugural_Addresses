@@ -71,8 +71,93 @@ function toggle() {
                 uns[i].classList.toggle("on")
             }
         };
+         break;
+        case "Episcopaltoggle": {
+            var drs = document.getElementsByClassName("Episcopal");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
+         break;
+        case "Unitariantoggle": {
+            var drs = document.getElementsByClassName("Unitarian");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
+         break;
+        case "Deisttoggle": {
+            var drs = document.getElementsByClassName("Deist");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
+         break;
+        case "Dutch_Reformedtoggle": {
+            var drs = document.getElementsByClassName("Dutch_Reformed");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
+        break;
+        case "Unaffiliatedtoggle": {
+            var drs = document.getElementsByClassName("UnaffiliatedD");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
+        break;
+        case "Methodisttoggle": {
+            var drs = document.getElementsByClassName("Methodist");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
+        break;
+        case "Disciple_of_Christtoggle": {
+            var drs = document.getElementsByClassName("Disciple_of_Christ");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
+        break;
+        case "Baptisttoggle": {
+            var drs = document.getElementsByClassName("Baptist");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
+        break;
+        case "Congregationalisttoggle": {
+            var drs = document.getElementsByClassName("Congregationalist");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
+        break;
+        case "Quakertoggle": {
+            var drs = document.getElementsByClassName("Quaker");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
+         break;
+        case "Roman_Catholictoggle": {
+            var drs = document.getElementsByClassName("Roman_Catholic");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
+         break;
+        case "Episcopal_Deisttoggle": {
+            var drs = document.getElementsByClassName("Episcopal_Deist");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
         break;
     }
+    
 }
 
 window.onload = init;
