@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    color: white;
+    color: black;
     font-family: "Georgia", sans-serif;
     text-align: center;
     position: relative;
@@ -35,7 +35,7 @@ h2 {
     white-space: nowrap;
     list-style: none;
     vertical-align: top;
-    background: #6D6C63;
+    background: #292724;
     content: "";
     font-size: 22px;
     -webkit-box-sizing: border-box;
@@ -100,7 +100,7 @@ div.dropdown {
     position: absolute;
     float: right;
     font: 22px georgia;
-    background-color: #810541;
+    background-color: #6D6C63;
     color: white;
     padding: 10px;
     margin-right: 10%;
