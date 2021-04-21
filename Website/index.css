@@ -1,12 +1,12 @@
 body {
     display: block;
     text-align: center;
-    background-color: #6C6462;
+    background-color: #DAD6CF;
     position: relative;
 }
 
 h1 {
-    color: black;
+    color: white;
     font-family: "Georgia", sans-serif;
     text-align: center;
     position: relative;
@@ -14,7 +14,7 @@ h1 {
     margin-right: 5%;
     padding: 30px;
     box-sizing: border-box;
-    background: #DAD6CF;
+    background: #6C6462;
     content: "";
     font-size: 36px;
     overflow: auto;
