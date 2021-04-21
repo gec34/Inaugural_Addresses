@@ -105,5 +105,5 @@ div.dropdown {
     padding: 10px;
     margin-right: 10%;
     margin-left: 50%;
-    top: 50px;
+    vertical-align: text-bottom;
 }
