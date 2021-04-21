@@ -1,7 +1,7 @@
 body {
     display: block;
     text-align: center;
-    background-color: #808080;
+    background-color: #6C6462;
     position: relative;
 }
 
@@ -14,7 +14,7 @@ h1 {
     margin-right: 5%;
     padding: 30px;
     box-sizing: border-box;
-    background: #0000A0;
+    background: #DAD6CF;
     content: "";
     font-size: 36px;
     overflow: auto;
@@ -35,7 +35,7 @@ h2 {
     white-space: nowrap;
     list-style: none;
     vertical-align: top;
-    background: #C41E3A;
+    background: #6D6C63;
     content: "";
     font-size: 22px;
     -webkit-box-sizing: border-box;
