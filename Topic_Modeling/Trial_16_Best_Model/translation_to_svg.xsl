@@ -34,7 +34,7 @@
             <text x="65" y="350" fill="gray">90%</text>
             <text x="65" y="300" fill="gray">100%</text>
             
-            <text x="600" y="250" fill="black">Topic 36 : Budget &amp; Trade</text>
+            <text x="600" y="250" fill="black">Topic 41 : Civil Rights</text>
             <text x="600" y="850" fill="black">Speech Number</text>
             <text x="30" y="500" fill="black" writing-mode="tb">Topic Relevance</text>
             
@@ -42,7 +42,7 @@
             
             
            <xsl:for-each select="//line">
-               <xsl:variable name="percent" as="xs:double" select="data[39] * 100"></xsl:variable>
+               <xsl:variable name="percent" as="xs:double" select="data[44] * 100"></xsl:variable>
                <xsl:variable name="height" as="xs:double" select="$percent * 5"></xsl:variable>
                <xsl:variable name="placement" as="xs:double" select="80 + (data[1] * 20)"></xsl:variable>
                <xsl:variable name="y-placement" as="xs:double" select="800 - $height"></xsl:variable>
