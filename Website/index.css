@@ -1,11 +1,9 @@
 body {
     display: block;
     text-align: center;
-    background-color: #808080;
+    background-color: #DAD6CF;
     position: relative;
 }
-
-
 
 h1 {
     color: white;
@@ -16,7 +14,7 @@ h1 {
     margin-right: 5%;
     padding: 30px;
     box-sizing: border-box;
-    background: #0000A0;
+    background: #6C6462;
     content: "";
     font-size: 36px;
     overflow: auto;
@@ -37,13 +35,16 @@ h2 {
     white-space: nowrap;
     list-style: none;
     vertical-align: top;
-    background: #C41E3A;
+    background: #292724;
     content: "";
     font-size: 22px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     display: inline-block;
+}
 
+img{
+    border: 5px solid #292724;
 }
 
 a {
@@ -100,12 +101,14 @@ div.dropdown {
 #home {
     display: block;
     text-align: center;
-    position: relative;
-    font: 17px georgia;
-    background-color: #810541;
+    position: absolute;
+    float: right;
+    font: 22px georgia;
+    background-color: #6D6C63;
     color: white;
     padding: 10px;
-    margin: 3%;
-    opacity: 0.8;
-    top: 35px;
+    margin-right: 10%;
+    margin-left: 45%;
+    vertical-align: text-bottom;
+    margin-top: 40px;
 }
