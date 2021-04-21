@@ -97,13 +97,12 @@ div.dropdown {
 #home {
     display: block;
     text-align: center;
-    position: absolute;
+    position: fixed;
     font: 17px georgia;
     background-color: #810541;
     color: white;
     padding: 10px;
     margin-right: 10%;
     margin-left: 50%;
-    opacity: 0.8;
     top: 35px;
 }
