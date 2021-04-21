@@ -97,7 +97,8 @@ div.dropdown {
 #home {
     display: block;
     text-align: center;
-    position: fixed;
+    position: relative;
+    float: right;
     font: 17px georgia;
     background-color: #810541;
     color: white;
