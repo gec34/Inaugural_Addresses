@@ -1,5 +1,5 @@
 h3{
-    color: white;
+    color: #6D6C63;
     font-size: 36px;
 }
 
@@ -14,9 +14,10 @@ p{
 
 a.href{
     text-decoration: underline;
-    color: white;
+    color: #6D6C63;
 }
 
 h4{
     font-size: 24px;
+    color: #6D6C63;
 }
