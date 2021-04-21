@@ -43,6 +43,10 @@ h2 {
     display: inline-block;
 }
 
+img{
+    border: 5px solid #292724;
+}
+
 a {
     color: white;
     text-decoration: none;
