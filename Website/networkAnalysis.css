@@ -21,3 +21,8 @@ h4{
     font-size: 24px;
     color: #6D6C63;
 }
+
+div.id{
+    border: 5px solid #292724;
+}
+
