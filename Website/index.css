@@ -112,3 +112,11 @@ div.dropdown {
     vertical-align: text-bottom;
     margin-top: 40px;
 }
+
+#about{
+    margin: 0;
+    display: block;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
