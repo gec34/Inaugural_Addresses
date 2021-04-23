@@ -1,12 +1,6 @@
 body {
     display: block;
-    background-image: url(http://dev.obdurodon.org/~egr19/background.jpg);
-    background-color: #808080;
-    height: 500px;
-    background-position: center;
-    background-size: auto auto;
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-color: #DAD6CF;
     position: relative;
     background-attachment: fixed;
 
@@ -31,43 +25,34 @@ h1 {
     padding: 30px;
     box-sizing: border-box;
     margin: 3%;
-    background: #0000A0;
+    background: #6C6462;
     opacity: 0.8;
     content: "";
     font-size: 36px;
     overflow: auto;
-    background-attachment: fixed;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
 }
 
 h2 {
-    display: inline-block;
+    color: white;
+    font-family: "Georgia", sans-serif;
+    text-align: center;
     position: relative;
-    display: block;
-    margin: 10px;
-    padding: 5px 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 30px;
+    box-sizing: border-box;
     width: auto;
     white-space: nowrap;
-    text-align: center;
     list-style: none;
     vertical-align: top;
-    box-sizing: border-box;
-    margin: 3%;
-    background: #810541;
-    opacity: 0.8;
+    background: #292724;
     content: "";
-    font-size: 18px;
-    overflow: auto;
-    background-attachment: fixed;
+    font-size: 22px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    color: white;
-    box-shadow: 
-    1px 1px 1px 1px #000, 
-1px 1px 1px 1px #fff, 
-0 0 6px 3px #fff;
-    border-radius: 6px
+    display: inline-block;
 }
 
 a {
@@ -83,4 +68,5 @@ p{
     text-align: center;
     margin-left: 10%;
     margin-right: 10%;
+    float: inherit;
 }
