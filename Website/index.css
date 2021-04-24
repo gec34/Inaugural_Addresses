@@ -117,14 +117,19 @@ div.dropdown {
     display: block;
     text-align: center;
     position: relative;
-    font: 22px georgia;
+    font: 20px georgia;
     background-color: #6D6C63;
     color: white;
     padding: 10px;
 }
 
-div.about.a{
-    margin: 0;
-    text-decoration: underline;
+#aboutus{
+    border: 5px solid #292724;
+    display: block;
+    text-align: center;
+    position: relative;
+    font: 22px georgia;
+    background-color: #DAD6CF;
+    color:#292724; 
 }
 
