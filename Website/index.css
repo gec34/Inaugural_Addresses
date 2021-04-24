@@ -123,4 +123,8 @@ div.dropdown {
     padding: 10px;
 }
 
+div.about.a{
+    margin: 0;
+    text-decoration: underline;
+}
 
