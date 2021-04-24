@@ -114,9 +114,16 @@ div.dropdown {
 }
 
 #about{
-    margin: 0;
     display: block;
     text-align: center;
-    margin-left: 10%;
-    margin-right: 10%;
+    position: relative;
+    font: 22px georgia;
+    background-color: #6D6C63;
+    color: white;
+    padding: 10px;
 }
+
+a{
+    margin: 0;
+}
+
