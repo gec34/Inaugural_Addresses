@@ -31,19 +31,12 @@
                     <div class="attributeMenu">
                         <p class="chartTitle">Click to Highlight:</p>
                         <ul>
-                            <li>
-                                <input type="checkbox" value="policy"/>
-                                <strong>Policy</strong>
-                            </li>
-                            <li style="color:yellow"><input type="checkbox" value="economy"/>Economy</li>
+                            <li style ="color:yellow"><input type="checkbox" value="economy"/>Economy</li>
                             <li style = "color:red"><input type="checkbox" value="foreign"/>Foreign Policy</li>
                             <li style = "color:orange"><input type="checkbox" value="slavery"/>Slavery</li>
                             <li style = "color:fuchsia"><input type="checkbox" value="civil"/>Civil Rights</li>
                             <li style = "color:lime"><input type="checkbox" value="govt"/>Government</li>
-                            <li>
-                                <input type="checkbox" value="religion"/>
-                                <em>Religion</em>
-                            </li>
+                            <li style = "color:blue"><input type="checkbox" value="religion"/>Religion</li>
                         </ul>
                     </div>
 

@@ -7,13 +7,6 @@ function init() {
 function toggleColor() {
     var device = this.value;
     switch (device) {
-        case 'policy': {
-        var policy = document.querySelectorAll('.policy');
-        for (var i = 0; i < policy.length; i++) {
-            policy[i].classList.toggle('on');
-        };
-        };
-        break;
         case 'religion': {
         var religion = document.querySelectorAll('.religion');
         for (var i = 0; i < religion.length; i++) {
