@@ -133,3 +133,9 @@ div.dropdown {
     color:#292724; 
 }
 
+/* Needed for sorting address page */
+li.on {display:none;}
+
+
+
+
