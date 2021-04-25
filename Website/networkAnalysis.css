@@ -8,10 +8,6 @@ p{
     margin-right: 10%;
 }
 
-a.href{
-    text-decoration: underline;
-    color: #6D6C63;
-}
 
 h4{
     font-size: 24px;
@@ -20,5 +16,11 @@ h4{
 
 div.id{
     border: 5px solid #292724;
+}
+
+a.class{
+  text-decoration: underline;
+   color: #6D6C63;  
+   margin: 0;
 }
 
