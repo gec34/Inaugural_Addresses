@@ -18,7 +18,7 @@ div.id{
     border: 5px solid #292724;
 }
 
-a.class{
+a.class.body{
   text-decoration: underline;
    color: #6D6C63;  
    margin: 0;
