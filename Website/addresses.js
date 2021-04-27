@@ -156,6 +156,12 @@ function toggle() {
             }
         };
         break;
+        case "Presbyteriantoggle": {
+            var drs = document.getElementsByClassName("Presbyterian");
+            for (var i = 0; i < drs.length; i++) {
+                drs[i].classList.toggle("on")
+            }
+        };
     }
     
 }
