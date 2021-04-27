@@ -19,31 +19,32 @@
                 <h2>
                     <xsl:comment><!--#include virtual="menu.xhtml" --></xsl:comment>
                 </h2>
-                <div class="flex">
+                <div class="container">
 
-                    <div class="metadata">
+                    <div class="one">
                         <ul>
                             <xsl:apply-templates select="//meta" mode="meta">
                                 <xsl:sort/>
                             </xsl:apply-templates>
                         </ul>
                     </div>
-                    <div class="attributeMenu">
+                    <div class="two">
                         <p class="chartTitle">Click to Highlight:</p>
                         <ul>
                             <li style ="color:yellow"><input type="checkbox" value="economy"/>Economy</li>
                             <li style = "color:pink"><input type="checkbox" value="foreign"/>Foreign Policy</li>
-                            <li style = "color:orange"><input type="checkbox" value="slavery"/>Slavery</li>
-                            <li style = "color:cyan"><input type="checkbox" value="civil"/>Civil Rights</li>
-                            <li style = "color:lime"><input type="checkbox" value="govt"/>Government</li>
+                            <li style = "color:orange"><input type="checkbox" value="military"/>Military</li>
+                            <li style = "color:cyan"><input type="checkbox" value="civil_rights"/>Civil Rights</li>
+                            <li style = "color:lime"><input type="checkbox" value="government"/>Government</li>
                             <li style = "color:blue"><input type="checkbox" value="religion"/>Religion</li>
                         </ul>
                     </div>
+                </div>
 
                     <div class="home">
                         <xsl:apply-templates select="//body"/>
                     </div>
-                </div>
+                
 
             </body>
 
