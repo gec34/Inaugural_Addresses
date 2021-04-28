@@ -133,14 +133,30 @@ div.dropdown {
     color:#292724; 
 }
 
+#conclusion{
+    display: block;
+    text-align: center;
+    position: relative;
+    font: 20px georgia;
+    background-color: #6D6C63;
+    color: white;
+    padding: 10px;
+}
+
+#reflection{
+    border: 5px solid #292724;
+    display: block;
+    text-align: center;
+    position: relative;
+    font: 22px georgia;
+    background-color: #DAD6CF;
+    color:#292724; 
+}
+
 /* Needed for sorting address page */
 li.on {display:none;}
 
-a.class{
-  text-decoration: underline;
-   color: #6D6C63;  
-   margin: 0;
-}
+
 
 
 
