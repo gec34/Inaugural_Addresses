@@ -185,3 +185,8 @@ li.on {
     margin-top: -482px;
     width: 60%;
 }
+
+#license{
+    position: absolute;
+    bottom:0;
+}
