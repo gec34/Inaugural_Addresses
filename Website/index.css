@@ -159,32 +159,26 @@ li.on {
     display: none;
 }
 
-.container {
+#container {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
+    justify-content: center;
 
 }
 
 #fieldset
 {
-    text-align: left;
-    width: 30%;
-    padding: 1px;
-    position: relative;
+flex: 25%;
+text-align: left;
 
 }
 
 #ol
 {
-    text-align: center;
-    position: relative;
-    padding: 10px;
-    top: 10px;
+    flex: 47%;
+    text-align: left;
     justify-content: center;
-    margin: 20px auto;
-    margin-top: -482px;
-    width: 60%;
 }
 
 #license{
