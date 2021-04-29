@@ -43,7 +43,7 @@ h2 {
     display: inline-block;
 }
 
-img{
+img {
     border: 5px solid #292724;
 }
 
@@ -51,7 +51,7 @@ a {
     color: white;
     text-decoration: none;
     margin-right: 25px;
-  margin-left: 25px;
+    margin-left: 25px;
 }
 
 .dropbtn {
@@ -113,7 +113,7 @@ div.dropdown {
     margin-top: 40px;
 }
 
-#about{
+#about {
     display: block;
     text-align: center;
     position: relative;
@@ -123,17 +123,17 @@ div.dropdown {
     padding: 10px;
 }
 
-#aboutus{
+#aboutus {
     border: 5px solid #292724;
     display: block;
     text-align: center;
     position: relative;
     font: 22px georgia;
     background-color: #DAD6CF;
-    color:#292724; 
+    color: #292724;
 }
 
-#conclusion{
+#conclusion {
     display: block;
     text-align: center;
     position: relative;
@@ -143,21 +143,45 @@ div.dropdown {
     padding: 10px;
 }
 
-#reflection{
+#reflection {
     border: 5px solid #292724;
     display: block;
     text-align: center;
     position: relative;
     font: 22px georgia;
     background-color: #DAD6CF;
-    color:#292724; 
+    color: #292724;
 }
 
 /* Needed for sorting address page */
-li.on {display:none;}
+li.on {
+    display: none;
+}
 
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
 
+}
 
+#fieldset
+{
+    text-align: left;
+    width: 30%;
+    padding: 1px;
+    position: relative;
 
+}
 
-
+#ol
+{
+    text-align: center;
+    position: relative;
+    padding: 10px;
+    top: 10px;
+    justify-content: center;
+    margin: 20px auto;
+    margin-top: -482px;
+    width: 60%;
+}
