@@ -13,80 +13,93 @@
         </h2>
         <h3>Network Analysis</h3>
         <div>
+            <p>Networks are structures that allow us to study relationships, linkages, and
+                interactions within data. They provide us ways to understand how close certain data
+                points are and the relative importance of some points over others. The networks on
+                this page were designed by creating an XQuery document that selected all the
+                information from the XML markup we wanted to study and importing that XQuery into a
+                software called Cytoscape. Cytoscape not only lets its users to design and create
+                netwroks, but it also extracts data about the network such as node degree or
+                eccentricity. The networks created for this research project are networks of
+                co-occurance, meaning they are networks of things that appear together in shared
+                contexts.</p>
             <span class="svg"><!--#include virtual="entireNetwork.svg" --></span>
-
             <p>The network above displays all of the different policies and values tagged within
                 each speech and how they are connected to each other. Policies such as "civil
                 rights", "education", and "health" are denoted with a black circle while values like
-                "liberty" and "religion" are represented as white diamonds. The various lines each
-                represent a different president. Therefore, the goal of this network is to analyze
-                which values and policies appear together in specific speeches. The nodes are
-                organized in a circle by increasing amount of degree, that is how many edges are
-                touching the node.</p>
-            <p>At the left of the network, one can observe the node with the largest degree is the
-                policy of "economy," meaning it has more connections than any other node. This is
-                unsurprising due to the fact that it is hard to carry out policies regarding
+                "liberty" and "religion" are represented as white diamonds. Each different-colored
+                line represents a different president. The goal of this network is to analyze which
+                values and policies appear together in specific speeches. The nodes are organized in
+                a circle by increasing amount of degree - that is, how many edges are touching each
+                node.</p>
+            <p>On the left side of the network, one can observe the node with the largest degree is
+                the policy of "economy," meaning it has more connections than any other node. This
+                is unsurprising due to the fact that it is hard to carry out policies regarding
                 welfare, health, or education without taking economics into consideration.
-                Additionally, it was interesting to observe that the policy with the second-highest
-                node value was "foreign". "Foreign" was used in the markup to tag issues of foreign
-                affairs and international cooperation or disagreement. While it is difficult to
-                observe in this specific network, the Mallet section of our analysis shows how
-                foreign affairs remains an important topic for presidents over the years.</p>
-            <p>In terms of the value nodes, the one with the largest degree is religion. As
-                researchers, we were not surprised to learn this as we encountered many religious
-                references in the speeches throughout our initial markup. Approximately every
-                president, regardless of party affiliation or time period, made a reference to God
-                at least once. Although the United States government technically operates with the
-                separation of church and state built into its values, the sheer amount of religious
-                references that appear in presidents' inaugural addresses causes one to reexamine
-                how large that separation may actually be.</p>
-            <p>Due to the sheer size of this network, we created subnetworks in order to observe
-                direct connections more closely. By examining networks of presidents 
-                <a href="#jefferson" class="body">Thomas Jefferson</a>,<a href="#lincoln" class="body">Abraham Lincoln</a>, <a href="#fdr" class="body">Franklin Delano Roosevelt</a>, <a
-                    href="#trump" class="body">Donald Trump</a>, and <a
-                        href="#biden" class="body">Joe Biden</a>, we will better be able to determine
-                which values and policies remain important over time.</p>
+                Additionally, it is interesting to note that the policy with the second-highest node
+                value was "foreign". "Foreign" was used in the markup to tag issues of foreign
+                affairs and international cooperation or disagreement. While it is not shown in this
+                model, check out our Topic Modeling analysis to learn more about the occurence of
+                foreign policy in inaugural addresses over time.</p>
+            <p>In terms of the value nodes, the one with the largest degree is religion. This was
+                not shocking as we encountered many religious references in the speeches throughout
+                our initial markup. Approximately every president, regardless of party affiliation
+                or time period, made a reference to God at least once. Although the United States
+                government technically operates with the separation of church and state built into
+                its values, the vast amount of religious references that appear in presidents'
+                inaugural addresses causes one to reexamine how large that separation may actually
+                be.</p>
+            <p>Due to the sheer size of this network, subnetworks were created in order to observe
+                direct connections more closely. By examining networks of presidents <a
+                    href="#jefferson" class="body">Thomas Jefferson</a>,<a href="#lincoln"
+                    class="body">Abraham Lincoln</a>, <a href="#fdr" class="body">Franklin Delano
+                    Roosevelt</a>, <a href="#trump" class="body">Donald Trump</a>, and <a
+                    href="#biden" class="body">Joe Biden</a>, we were able to closely examine which
+                policies and values remained important overtime.</p>
         </div>
         <div>
             <h4><a id="#jefferson" class="body">Thomas Jefferson</a></h4>
             <span class="svg1"><!--#include virtual="jefferson.svg" --></span>
             <p>President Thomas Jefferson's subnetwork is relatively easy to read simply because he
                 focuses on three main policies: economy, civil rights, and patriotism. In this case,
-                we can literally count the edges and observe that the policy he mentioned the most
-                was that of civil rights. It is a bit surpising that civil rights has a larger
-                degree than economy in this subnetwork. However we can see that civil rights is
-                connected to every value Jefferson mentions: religion, unity, democracy, and
-                equality. Because he was only the third president, perhaps he spent much of his
-                inaugural address discussing the Bill of Rights and the liberties that automatically
-                come with being a citizen of the United States. </p>
+                the edges are able to be counted by a human, and one may observe that the policy he
+                mentioned the most was that of civil rights. It is a bit surpising that civil rights
+                has a larger degree than economy in this subnetwork due to the time period. However
+                we can see that civil rights is connected to every value Jefferson mentions:
+                religion, unity, democracy, and equality. Because he was only the third president,
+                perhaps he spent much of his inaugural address discussing the Bill of Rights and
+                other liberties that supposedly come with being a citizen of the United States. </p>
         </div>
         <div>
             <h4><a id="#lincoln" class="body">Abraham Lincoln</a></h4>
-            <span class="svg2" ><!--#include virtual="lincoln.svg" --></span>
-            <p >President Abraham Lincoln's subwork contains much less overlap between the nodes than
+            <span class="svg2"><!--#include virtual="lincoln.svg" --></span>
+            <p>President Abraham Lincoln's subwork contains much less overlap between the nodes than
                 that of Jefferson. Additionally, every node has exactly three or four edges. This
-                may tell us thata Lincoln's inaugural addresses were very structured and organized.
+                may tell us that Lincoln's inaugural addresses were very structured and organized.
                 In regards to policy, there is no appearance of economy even though it was the node
                 with the largest degree in the general network. Like Jefferson, his most prevalent
-                policy is civil rights which is unsurprising due to the fact that he is the
+                policy is civil rights which may have been expected due to the fact that he is the
                 president who ended slavey. We see that the policy of civil rights occurs with all
                 the values Lincoln mentions: democracy, religion, and liberty. However, it is never
-                associated with the other policy of government, which is an interesting
-                observation.</p>
+                associated with the other policy of government. Although one can never be sure,
+                perhaps one could infer that Lincoln's goals were more focused on the people, and
+                therefore in his speech, he did not reference the government as frequently. This may
+                have shown how he wanted to put citizens' needs first and focus on how he could
+                improve their day-to-day life.</p>
         </div>
         <div>
             <h4><a id="#fdr" class="body">Franklin Delano Roosevelt</a></h4>
-            <span class="svg1" ><!--#include virtual="roosevelt.svg" --></span>
-            <p >FDR's network, like the other two presidents, is relatively easy to understand. Like
+            <span class="svg1"><!--#include virtual="roosevelt.svg" --></span>
+            <p>FDR's network, like the other two presidents, is relatively easy to understand. Like
                 Lincoln, his subnetwork does not contain a lot of overlap. In the center of all of
-                it is the policy of economy. There re a few different reasons this may be the case.
-                First of all, most of FDR's policy regarded getting the American economy back on its
-                feet. He focused on the Three R's: relief of the unemployed and poor, recovery of
-                the economy back to normal levels, and reform of the financial system to prevent a
-                repeat depression. Additionally, FDR was the only president to serve more than two
-                terms, instead serving 3.5. This subnetwork contains 4 speeches from this president
-                while others only have 1 or 2. This may provide explanation for the node degree of
-                economy in his network. </p>
+                it is the policy of economy. There are a few different reasons this may be the case.
+                First of all, most of FDR's policies focused on getting the American economy back on
+                its feet. He constantly advocated for the Three R's: relief of the unemployed and
+                poor, recovery of the economy back to normal levels, and reform of the financial
+                system to prevent a repeat depression. Additionally, FDR was the only president to
+                serve more than two terms, instead serving 3.5. This subnetwork contains 4 speeches
+                from this president while others only have 1 or 2. This may provide explanation for
+                the large node degree of economy in his network. </p>
         </div>
         <div>
             <h4><a id="#trump" class="body">Donald Trump</a></h4>
@@ -104,20 +117,22 @@
         <div>
             <h4><a id="#biden" class="body">Joe Biden</a></h4>
             <span class="svg1"><!--#include virtual="biden.svg" --></span>
-            <p>President Joe Biden's subetwork seems to have more criss-cross than Trump's. We
-                choose to compare these as Trump's term was right before Biden's. It is a bit like
-                comparing Jefferson and Lincoln's networks. Jefferson's was more all over the place
-                while Lincoln's speech seemed more structured. Perhaps that is what we are seeing
-                with Biden's speech as many of his discussion points connected to various others.
-                Like some earlier presidents, the topic of civil rights is connected to every value
-                mentioned. It is also hard to determine just by observation which node has the
-                largest degree. While economy does have a lot of edges, so does civil rights and
-                health. Civil rights may be so large due to the recent Black Lives Matter movement
-                regarding specifically police brutality. Health, while not seen in any of the other
-                subnetworks analyzed, is so large because Biden was tasked with managing the
-                COVID-19 pandemic as soon as he came into office. People wanted to hear his plans
-                and course of action to get theUnited States back in its feet, and he addressed much
-                of that in his inaugural speech. </p>
+            <p>President Joe Biden's subetwork seems to have more overlap than Trump's. Comparing
+                Trump's network and Biden's network may allow us to observe some differences between
+                the political parties since they are both modern-day leaders. This comparison is
+                similar to that between Jefferson and Lincoln: Jefferson's topics were more
+                scattered and overlapping while Lincoln's speech seemed more structured. Perhaps
+                that is what we are seeing with Biden's speech as many of his discussion points
+                connected to various others. Like some earlier presidents, the topic of civil rights
+                is connected to every value mentioned. It is also hard to determine just by
+                observation which node has the largest degree. While economy does have a lot of
+                edges, civil rights and health do as well. Civil rights may be so large due to the
+                recent Black Lives Matter movement regarding police brutality and other forms of
+                systemic racism. Health, while not seen in any of the other subnetworks analyzed,
+                has such a large degree because Biden was tasked with managing the COVID-19 pandemic
+                as soon as he came into office. People wanted to hear his plans and course of action
+                to get the United States back in its feet, and he addressed much of that in his
+                inaugural speech. </p>
         </div>
         <div id="license"><!--#include virtual="license.xhtml" --></div>
     </body>
