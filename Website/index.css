@@ -192,3 +192,8 @@ li.on {
 	padding-top: 10px;
 	bottom: 0px;
 }
+
+.li{
+    color: black;
+    margin:0;
+}
