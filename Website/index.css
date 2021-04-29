@@ -197,3 +197,8 @@ a.license{
     color: black;
     margin:0;
 }
+
+a.body{
+    text-decoration: underline;
+    margin:0;
+}
