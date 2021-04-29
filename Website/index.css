@@ -187,7 +187,8 @@ li.on {
 }
 
 #license{
-    position: fixed;
-    bottom:0;
-    right:0;
+    float: left;
+    padding-bottom: 10px;
+	padding-top: 10px;
+	bottom: 0px;
 }
