@@ -15,4 +15,12 @@ h4{
 }
 
 
+p.jefferson{
+    text-align: left;
+    position: absolute;
+    float: right;
+    font: 14px georgia;
+    padding: 10px;
+    vertical-align: text-bottom;
+}
 
