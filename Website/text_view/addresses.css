@@ -94,14 +94,13 @@ div.dropdown {
     font-size: 20px;
     color: white;
 }
-.container {
+#container {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    width: 15%;
+    width: 17%;
     
 }
-.one {
+div.meta {
     flex: 1 1 auto;
     text-align: left;
     background: #6D6C63;
@@ -111,10 +110,11 @@ div.dropdown {
     position: fixed;
     padding: 5px;
     width: 17%;
+    flex: 17%;
 
 }
 
-.two{
+div.attributeMENU{
     flex: 1 1 auto;
     text-align: left;
     background: #6D6C63;
@@ -124,34 +124,10 @@ div.dropdown {
     position: fixed;
     padding: 3px;
     width: 17%;
+    flex: 17%;
     margin-top: 180px;
 }
 
-div.attributeMenu
-{
-    text-align: left;
-    background: #6D6C63;
-    opacity: 0.8;
-    border-radius: 15px;
-    color: white;
-    padding: 7px;
-    width: 15%;
-    margin-top: 175px;
-    position: fixed;
-
-}
-div.metadata
-{
-    text-align: left;
-    background: #6D6C63;
-    opacity: 0.8;
-    border-radius: 15px;
-    color: white;
-    width: 15%;
-    padding: 7px;
-    margin-top: 30px;
-    position: fixed;
-}
 
 div.home {
     text-align: left;
@@ -165,7 +141,7 @@ div.home {
     top: 35px;
     justify-content: center;
     margin: 20px auto;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     width: 60%;
 }
 
@@ -206,4 +182,22 @@ ul
 .government.on {
 
     color: lime;
+}
+
+#license{
+    float: left;
+    padding-bottom: 10px;
+	padding-top: 10px;
+	bottom: 0px;
+}
+
+a.license{
+    color: black;
+    margin:0;
+}
+
+a.body{
+    text-decoration: underline;
+    margin:0;
+    color: #6D6C63;
 }
