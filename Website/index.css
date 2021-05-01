@@ -87,6 +87,8 @@ a {
     text-align: left;
 }
 
+table { border: 1px solid black;
+    display: inline-grid}
 
 .dropdown:hover .dropdown-content {
     display: block;
@@ -158,6 +160,8 @@ div.dropdown {
 li.on {
     display: none;
 }
+
+
 
 #container {
     display: flex;
